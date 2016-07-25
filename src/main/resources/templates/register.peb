@@ -1,0 +1,33 @@
+{% extends "base" %}
+
+{% set title="Register" %}
+{% set description = "Register description" %}
+
+{% block content %}
+
+<h1>Register</h1>
+<form action="" method="post">
+	{{ csrf() }}
+	
+	<div class="form-group{% if form_errors.email != null %} has-error{% endif %}">
+		<label for="email">Email</label>
+		<input type="email" class="form-control" id="email" name="email" placeholder="john@example.com" value="{{ email }}">
+		{{ helptext("email") }}
+	</div>
+	
+	<div class="form-group{% if form_errors.username != null %} has-error{% endif %}">
+		<label for="username">Username</label>
+		<input type="text" class="form-control" id="username" name="username" placeholder="JohnIsGreat123" value="{{ username }}">
+		{{ helptext("username") }}
+	</div>
+	
+	<div class="form-group{% if form_errors.password != null %} has-error{% endif %}">
+		<label for="password">Password</label>
+		<input type="password" class="form-control" id="password" name="password">
+		{{ helptext("password", "At least 8 characters") }}
+	</div>
+	
+	<button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+{% endblock %}

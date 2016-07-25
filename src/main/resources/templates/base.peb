@@ -1,0 +1,85 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>{{ title }}</title>
+
+    <meta name="description" content="{{ description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    {% block head_extra %}
+    {% endblock %}
+
+    <!--[if lt IE 9]>
+    <script src="/js/html5shiv.js"></script>
+    <![endif]-->
+    
+    <style>
+    body
+    {
+    	padding-bottom:50px;
+    }
+    </style>
+
+</head>
+<body>
+	<nav class="navbar navbar-default">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="/">Home</a>
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	                <span class="sr-only">Toggle navigation</span>
+	                <span class="icon-bar"></span>
+	                <span class="icon-bar"></span>
+	                <span class="icon-bar"></span>
+				</button>
+			</div>
+
+			{# These items will collapse and be hidden by the hamburger menu on mobile #}
+			<div class="navbar-collapse collapse">
+				{# Left-aligned Items 
+				<ul class="nav navbar-nav">
+					<li><a href="#">Test1</a></li>
+				</ul>
+				#}
+				{# Right-aligned Items #}
+				<ul class="nav navbar-nav navbar-right">
+					{% if session.get("user") == null %}
+						<li><a href="/user/login">Login</a></li>
+						<li><a href="/user/register">Register</a></li>
+					{% else %}
+						<li><p class="navbar-text">Hello, {{ session.get("user").username }}</p></li>
+						<li>
+							<form action="/user/logout" method="POST" class="navbar-form navbar-left">
+								{{ csrf() }}
+								<button type="submit" class="btn btn-default">Logout</button>	
+							</form>
+						</li>
+					{% endif %}
+				</ul>
+			</div>
+		</div>
+	</nav>
+    <div class="container">
+    
+	    {% if flash.hasSuccess %}
+			<div class="alert alert-success">
+			{{ flash.getSuccess }}
+			</div>
+		{% elseif flash.hasError %}
+			<div class="alert alert-danger">
+			{{ flash.getError }}
+			</div>
+		{% endif %}
+		
+        {% block content %}
+        {% endblock %}
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</body>
+</html>
