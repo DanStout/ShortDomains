@@ -129,8 +129,8 @@
 				<filtering>true</filtering>
 				<includes>
 					<include>
-				**/*
-				</include>
+					**/*
+					</include>
 				</includes>
 			</resource>
 		</resources>
@@ -140,7 +140,7 @@
 				<artifactId>flyway-maven-plugin</artifactId>
 				<version>4.0.3</version>
 				<configuration>
-					<url>jdbc:h2:./data/test</url>
+					<url>jdbc:h2:./data/db</url>
 					<user>sa</user>
 				</configuration>
 				<dependencies>

@@ -1,21 +1,16 @@
 package ca.danielstout.pippolearn;
 
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 import com.mitchellbosecke.pebble.PebbleEngine.Builder;
+import com.mitchellbosecke.pebble.extension.AbstractExtension;
 import com.mitchellbosecke.pebble.extension.Extension;
-import com.mitchellbosecke.pebble.extension.Filter;
 import com.mitchellbosecke.pebble.extension.Function;
-import com.mitchellbosecke.pebble.extension.NodeVisitorFactory;
-import com.mitchellbosecke.pebble.extension.Test;
 import com.mitchellbosecke.pebble.extension.escaper.SafeString;
-import com.mitchellbosecke.pebble.operator.BinaryOperator;
-import com.mitchellbosecke.pebble.operator.UnaryOperator;
 import com.mitchellbosecke.pebble.template.EvaluationContext;
-import com.mitchellbosecke.pebble.tokenParser.TokenParser;
 
 import ro.pippo.core.Application;
 import ro.pippo.pebble.PebbleTemplateEngine;
@@ -48,10 +43,7 @@ public class CustomPebbleTemplateEngine extends PebbleTemplateEngine
 		@Override
 		public List<String> getArgumentNames()
 		{
-			List<String> list = new ArrayList<>();
-			list.add("fieldname");
-			list.add("default");
-			return list;
+			return Arrays.asList("fieldname", "default");
 		}
 
 		/**
@@ -70,7 +62,6 @@ public class CustomPebbleTemplateEngine extends PebbleTemplateEngine
 			String def = (String) args.get("default");
 
 			Map<String, List<String>> formErrors = getVariable(args, "form_errors");
-
 			List<String> errors = formErrors.get(fieldName);
 
 			if (def == null && errors == null) return null;
@@ -108,20 +99,8 @@ public class CustomPebbleTemplateEngine extends PebbleTemplateEngine
 		return (T) ctx.getScopeChain().get(name);
 	}
 
-	private Extension customExtension = new Extension()
+	private Extension customExtension = new AbstractExtension()
 	{
-		@Override
-		public Map<String, Filter> getFilters()
-		{
-			return null;
-		}
-
-		@Override
-		public Map<String, Test> getTests()
-		{
-			return null;
-		}
-
 		@Override
 		public Map<String, Function> getFunctions()
 		{
@@ -129,36 +108,6 @@ public class CustomPebbleTemplateEngine extends PebbleTemplateEngine
 			map.put("csrf", csrfFunction);
 			map.put("helptext", helptextFunction);
 			return map;
-		}
-
-		@Override
-		public List<TokenParser> getTokenParsers()
-		{
-			return null;
-		}
-
-		@Override
-		public List<BinaryOperator> getBinaryOperators()
-		{
-			return null;
-		}
-
-		@Override
-		public List<UnaryOperator> getUnaryOperators()
-		{
-			return null;
-		}
-
-		@Override
-		public Map<String, Object> getGlobalVariables()
-		{
-			return null;
-		}
-
-		@Override
-		public List<NodeVisitorFactory> getNodeVisitors()
-		{
-			return null;
 		}
 	};
 

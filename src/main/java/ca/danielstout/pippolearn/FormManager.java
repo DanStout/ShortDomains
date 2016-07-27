@@ -54,24 +54,23 @@ public class FormManager
 
 	private <T> void setFieldsToLocals(RouteContext ctx, T obj)
 	{
-		for (Field f : obj.getClass().getDeclaredFields())
+		for (Field fld : obj.getClass().getDeclaredFields())
 		{
-			if (!f.isAccessible()) f.setAccessible(true);
+			if (!fld.isAccessible()) fld.setAccessible(true);
 
-			String field = f.getName();
+			String fldName = fld.getName();
 
 			try
 			{
-				String value = f.get(obj).toString();
+				String value = fld.get(obj).toString();
 				if (value != null)
 				{
-					ctx.setLocal(field, value);
+					ctx.setLocal(fldName, value);
 				}
-				log.debug("Set {} to {}", field, value);
 			}
 			catch (IllegalArgumentException | IllegalAccessException e)
 			{
-				log.debug("Failed to get value for field {}", field);
+				log.debug("Failed to get value for field {}", fldName);
 			}
 		}
 	}

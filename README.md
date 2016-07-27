@@ -21,6 +21,10 @@ Todo:
  * Switch from Freemarker to Pebble
  * Try Controller routing
  * Setup Guice for DI
+ 
+ Possible Pippo Contributions:
+ * Bugfix with updated Pebble template dev mode cache
+ * Add JavaDoc (such as to RouteContext)
 
 Properties available in template:
  * session (if present)

@@ -37,9 +37,11 @@ public class UserService
 		user.setPassword(hashed);
 		try (Connection con = db.open())
 		{
-			con.createQuery(sql)
+			Long id = con.createQuery(sql, true)
 				.bind(user)
-				.executeUpdate();
+				.executeUpdate()
+				.getKey(Long.class);
+			user.setId(id);
 			return true;
 		}
 		catch (Sql2oException ex)

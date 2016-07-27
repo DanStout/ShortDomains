@@ -79,6 +79,7 @@ public class UserRoutes extends RouteGroup
 			}
 
 			FormManager mgr = new FormManager(ctx);
+			user.setPassword("");
 			mgr.flashObject(user);
 
 			for (ConstraintViolation<User> viol : violations)
