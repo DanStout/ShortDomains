@@ -1,0 +1,21 @@
+Domain name:           danielstout.ca
+Domain status:         registered
+Creation date:         2013/12/29
+Expiry date:           2016/12/29
+Updated date:          2015/12/17
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              Go Daddy Domains Canada, Inc
+    Number:            2316042
+
+Name servers:
+    ns.phx4.nearlyfreespeech.net
+    ns.phx6.nearlyfreespeech.net
+
+% WHOIS look-up made at 2016-07-26 23:39:00 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2016 Canadian Internet Registration Authority, (http://www.cira.ca/) 

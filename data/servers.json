@@ -1,0 +1,8431 @@
+[ {
+  "tld" : "aarp",
+  "servers" : [ {
+    "address" : "whois.nic.aarp",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "abbott",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "abbvie",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "abogado",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "abudhabi",
+  "servers" : [ {
+    "address" : "whois.nic.abudhabi",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ac",
+  "servers" : [ {
+    "address" : "whois.nic.ac",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ac.ac",
+  "servers" : [ {
+    "address" : "whois.nic.ac",
+    "availableText" : "Available"
+  } ]
+}, {
+  "tld" : "co.ac",
+  "servers" : [ {
+    "address" : "whois.nic.ac",
+    "availableText" : "not registered"
+  } ]
+}, {
+  "tld" : "gv.ac",
+  "servers" : [ {
+    "address" : "whois.nic.ac",
+    "availableText" : "Available"
+  } ]
+}, {
+  "tld" : "or.ac",
+  "servers" : [ {
+    "address" : "whois.nic.ac",
+    "availableText" : "Available"
+  } ]
+}, {
+  "tld" : "academy",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "accountant",
+  "servers" : [ {
+    "address" : "whois.nic.accountant",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "accountants",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "aco",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "active",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "actor",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "ad",
+  "servers" : [ {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "adac",
+  "servers" : [ {
+    "address" : "whois.nic.adac",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ads",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "adult",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "ae",
+  "servers" : [ {
+    "address" : "whois-check.aeda.net.ae",
+    "availableText" : "available"
+  }, {
+    "address" : "whois.aeda.net.ae",
+    "availableText" : "no data found"
+  } ]
+}, {
+  "tld" : "aeg",
+  "servers" : [ {
+    "address" : "whois.nic.aeg",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "aero",
+  "servers" : [ {
+    "address" : "whois.aero",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "af",
+  "servers" : [ {
+    "address" : "whois.nic.af",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "afl",
+  "servers" : [ {
+    "address" : "whois.nic.afl",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ag",
+  "servers" : [ {
+    "address" : "whois.nic.ag",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "agakhan",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "agency",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "airbus",
+  "servers" : [ {
+    "address" : "whois.nic.airbus",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "airforce",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "airtel",
+  "servers" : [ {
+    "address" : "whois.nic.airtel",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "akdn",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "allfinanz",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "ally",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "alsace",
+  "servers" : [ {
+    "address" : "whois-alsace.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "alstom",
+  "servers" : [ {
+    "address" : "whois.nic.alstom",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "am",
+  "servers" : [ {
+    "address" : "whois.amnic.net",
+    "availableText" : "no match"
+  }, {
+    "address" : "whois.nic.am",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "amsterdam",
+  "servers" : [ {
+    "address" : "whois.nic.amsterdam",
+    "availableText" : "Status: free"
+  } ]
+}, {
+  "tld" : "android",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "anquan",
+  "servers" : [ {
+    "address" : "whois.teleinfo.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "anz",
+  "servers" : [ {
+    "address" : "whois.nic.anz",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "apartments",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "app",
+  "servers" : [ {
+    "address" : "whois.nic.google",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "apple",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "aquarelle",
+  "servers" : [ {
+    "address" : "whois-aquarelle.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "archi",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "army",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "arpa",
+  "servers" : [ {
+    "address" : "whois.iana.org",
+    "availableText" : "but this server does not have"
+  } ]
+}, {
+  "tld" : "art",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "arte",
+  "servers" : [ {
+    "address" : "whois.nic.arte",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "as",
+  "servers" : [ {
+    "address" : "whois.nic.as",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "asia",
+  "servers" : [ {
+    "address" : "whois.nic.asia",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "associates",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "at",
+  "servers" : [ {
+    "address" : "whois.nic.at",
+    "availableText" : "nothing found"
+  } ]
+}, {
+  "tld" : "ac.at",
+  "servers" : [ {
+    "address" : "whois.nic.at",
+    "availableText" : "nothing found"
+  } ]
+}, {
+  "tld" : "co.at",
+  "servers" : [ {
+    "address" : "whois.nic.at",
+    "availableText" : "nothing found"
+  } ]
+}, {
+  "tld" : "gv.at",
+  "servers" : [ {
+    "address" : "whois.nic.at",
+    "availableText" : "nothing found"
+  } ]
+}, {
+  "tld" : "or.at",
+  "servers" : [ {
+    "address" : "whois.nic.at",
+    "availableText" : "nothing found"
+  } ]
+}, {
+  "tld" : "attorney",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "au",
+  "servers" : [ {
+    "address" : "whois.audns.net.au",
+    "availableText" : "no data found"
+  }, {
+    "address" : "whois.aunic.net",
+    "availableText" : "no data found"
+  } ]
+}, {
+  "tld" : "asn.au",
+  "servers" : [ {
+    "address" : "whois.aunic.net",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "com.au",
+  "servers" : [ {
+    "address" : "whois.aunic.net",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "edu.au",
+  "servers" : [ {
+    "address" : "whois.aunic.net",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "id.au",
+  "servers" : [ {
+    "address" : "whois.aunic.net",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "net.au",
+  "servers" : [ {
+    "address" : "whois.aunic.net",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "org.au",
+  "servers" : [ {
+    "address" : "whois.aunic.net",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "auction",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "audi",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "audio",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "auto",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "autos",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "avianca",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "aw",
+  "servers" : [ {
+    "address" : "whois.nic.aw",
+    "availableText" : "is free"
+  } ]
+}, {
+  "tld" : "ax",
+  "servers" : [ {
+    "address" : "whois.ax",
+    "availableText" : "No records matching"
+  } ]
+}, {
+  "tld" : "baidu",
+  "servers" : [ {
+    "address" : "whois.ngtld.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "band",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "bank",
+  "servers" : [ {
+    "address" : "whois.nic.bank",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "barcelona",
+  "servers" : [ {
+    "address" : "whois.nic.barcelona",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "barclaycard",
+  "servers" : [ {
+    "address" : "whois.nic.barclaycard",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "barclays",
+  "servers" : [ {
+    "address" : "whois.nic.barclays",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "barefoot",
+  "servers" : [ {
+    "address" : "whois.nic.barefoot",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "bargains",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "bauhaus",
+  "servers" : [ {
+    "address" : "whois.nic.bauhaus",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "bayern",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "bbc",
+  "servers" : [ {
+    "address" : "whois.nic.bbc",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "bbva",
+  "servers" : [ {
+    "address" : "whois.nic.bbva",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "bcg",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "bcn",
+  "servers" : [ {
+    "address" : "whois.nic.bcn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "be",
+  "servers" : [ {
+    "address" : "whois.dns.be",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ac.be",
+  "servers" : [ {
+    "address" : "whois.dns.be",
+    "availableText" : "No such domain"
+  } ]
+}, {
+  "tld" : "beats",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "beer",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "bentley",
+  "servers" : [ {
+    "address" : "whois.nic.bentley",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "berlin",
+  "servers" : [ {
+    "address" : "whois.nic.berlin",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "best",
+  "servers" : [ {
+    "address" : "whois.nic.best",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "bet",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "bg",
+  "servers" : [ {
+    "address" : "whois.register.bg",
+    "availableText" : "does not exist in database"
+  } ]
+}, {
+  "tld" : "bi",
+  "servers" : [ {
+    "address" : "whois1.nic.bi",
+    "availableText" : "Domain Status: No Object Found"
+  } ]
+}, {
+  "tld" : "bid",
+  "servers" : [ {
+    "address" : "whois.nic.bid",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "bike",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "bingo",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "bio",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "biz",
+  "servers" : [ {
+    "address" : "whois.biz",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.biz",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "bj",
+  "servers" : [ {
+    "address" : "whois.nic.bj",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "black",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "blackfriday",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "blanco",
+  "servers" : [ {
+    "address" : "whois.nic.blanco",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "blog",
+  "servers" : [ {
+    "address" : "whois.nic.blog",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "blue",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "bms",
+  "servers" : [ {
+    "address" : "whois.nic.bms",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "bmw",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "bn",
+  "servers" : [ {
+    "address" : "whois.bnnic.bn",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "bnl",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "bnpparibas",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "boats",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "boehringer",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "bom",
+  "servers" : [ {
+    "address" : "whois.gtlds.nic.br",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "bond",
+  "servers" : [ {
+    "address" : "whois.nic.bond",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "boo",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "boots",
+  "servers" : [ {
+    "address" : "whois.nic.boots",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "bosch",
+  "servers" : [ {
+    "address" : "whois.nic.bosch",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "bostik",
+  "servers" : [ {
+    "address" : "whois-bostik.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "boutique",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "no match for"
+  }, {
+    "address" : "whois.registro.br",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "adm.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "adv.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "am.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "arq.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "art.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "bio.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "cng.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "cnt.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "com.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "ecn.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "eng.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "esp.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "etc.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "eti.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "fm.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "fot.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "fst.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "g12.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "gov.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "ind.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "inf.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "jor.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "lel.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "med.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "mil.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "net.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "nom.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "ntr.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "odo.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "org.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "ppg.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "pro.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "psc.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "psi.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "rec.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "slg.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "tmp.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "tur.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "tv.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "vet.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "zlg.br",
+  "servers" : [ {
+    "address" : "whois.nic.br",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "bradesco",
+  "servers" : [ {
+    "address" : "whois-cl01.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "bridgestone",
+  "servers" : [ {
+    "address" : "whois.nic.bridgestone",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "broadway",
+  "servers" : [ {
+    "address" : "whois-cl01.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "broker",
+  "servers" : [ {
+    "address" : "whois.nic.broker",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "brother",
+  "servers" : [ {
+    "address" : "whois.nic.brother",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "brussels",
+  "servers" : [ {
+    "address" : "whois.nic.brussels",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "budapest",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "bugatti",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "build",
+  "servers" : [ {
+    "address" : "whois.nic.build",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "builders",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "business",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "buy",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "buzz",
+  "servers" : [ {
+    "address" : "whois.nic.buzz",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "bw",
+  "servers" : [ {
+    "address" : "whois.nic.net.bw",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "by",
+  "servers" : [ {
+    "address" : "whois.cctld.by",
+    "availableText" : "object does not exist"
+  }, {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "bz",
+  "servers" : [ {
+    "address" : "whois.afilias-grs.info",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.afilias-grs.info.",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "bzh",
+  "servers" : [ {
+    "address" : "whois-bzh.nic.fr",
+    "availableText" : "object does not exist"
+  }, {
+    "address" : "whois.nic.bzh",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "ca",
+  "servers" : [ {
+    "address" : "whois.cira.ca",
+    "availableText" : "Domain status:         available"
+  } ]
+}, {
+  "tld" : "cab",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "cafe",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "cal",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "cam",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "camera",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "camp",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "cancerresearch",
+  "servers" : [ {
+    "address" : "whois.nic.cancerresearch",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "canon",
+  "servers" : [ {
+    "address" : "whois.nic.canon",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "capetown",
+  "servers" : [ {
+    "address" : "capetown-whois.registry.net.za",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "capital",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "car",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "cards",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "care",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "career",
+  "servers" : [ {
+    "address" : "whois.nic.career",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "careers",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "cars",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "casa",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "cash",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "casino",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "cat",
+  "servers" : [ {
+    "address" : "whois.cat",
+    "availableText" : "no match"
+  }, {
+    "address" : "whois.nic.cat",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "catering",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "cba",
+  "servers" : [ {
+    "address" : "whois.nic.cba",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "cc",
+  "servers" : [ {
+    "address" : "ccwhois.verisign-grs.com",
+    "availableText" : "no match for"
+  }, {
+    "address" : "whois.nic.cc",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "cd",
+  "servers" : [ {
+    "address" : "whois.nic.cd",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "ceb",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "center",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "ceo",
+  "servers" : [ {
+    "address" : "whois.nic.ceo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "cern",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "cf",
+  "servers" : [ {
+    "address" : "whois.dot.cf",
+    "availableText" : "not known"
+  } ]
+}, {
+  "tld" : "cfa",
+  "servers" : [ {
+    "address" : "whois.nic.cfa",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "cfd",
+  "servers" : [ {
+    "address" : "whois.nic.cfd",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ch",
+  "servers" : [ {
+    "address" : "whois.nic.ch",
+    "availableText" : "not have an entry"
+  } ]
+}, {
+  "tld" : "chanel",
+  "servers" : [ {
+    "address" : "whois.nic.chanel",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "channel",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "chat",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "cheap",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "chintai",
+  "servers" : [ {
+    "address" : "whois.nic.chintai",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "christmas",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "chrome",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "church",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "ci",
+  "servers" : [ {
+    "address" : "whois.nic.ci",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "cipriani",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "city",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "cityeats",
+  "servers" : [ {
+    "address" : "whois.nic.cityeats",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "cl",
+  "servers" : [ {
+    "address" : "whois.nic.cl",
+    "availableText" : "no existe"
+  } ]
+}, {
+  "tld" : "claims",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "cleaning",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "click",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "clinic",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "clinique",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "clothing",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "cloud",
+  "servers" : [ {
+    "address" : "whois.nic.cloud",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "club",
+  "servers" : [ {
+    "address" : "whois.nic.club",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "clubmed",
+  "servers" : [ {
+    "address" : "whois.nic.clubmed",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "cm",
+  "servers" : [ {
+    "address" : "whois.netcom.cm",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.cn",
+    "availableText" : "no match"
+  }, {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "ac.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "ah.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "bj.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "com.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "cq.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "edu.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "gd.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "gov.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "gs.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "gx.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "gz.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "hb.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "he.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "hi.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "hk.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "hl.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "hn.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "jl.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "js.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "ln.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "mo.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "net.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "nm.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "nx.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "org.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "qh.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "sc.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "sh.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "sn.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "tj.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "tw.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "xj.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "xz.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "yn.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "zj.cn",
+  "servers" : [ {
+    "address" : "whois.cnnic.net.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "co",
+  "servers" : [ {
+    "address" : "whois.nic.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "com.co",
+  "servers" : [ {
+    "address" : "whois.nic.co",
+    "availableText" : "Not found"
+  } ]
+}, {
+  "tld" : "net.co",
+  "servers" : [ {
+    "address" : "whois.nic.co",
+    "availableText" : "Not found"
+  } ]
+}, {
+  "tld" : "nom.co",
+  "servers" : [ {
+    "address" : "whois.nic.co",
+    "availableText" : "Not found"
+  } ]
+}, {
+  "tld" : "uk.co",
+  "servers" : [ {
+    "address" : "whois.uk.co",
+    "availableText" : "NO MATCH"
+  } ]
+}, {
+  "tld" : "coach",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "codes",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "coffee",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "college",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.college",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "cologne",
+  "servers" : [ {
+    "address" : "whois-fe1.pdt.cologne.tango.knipp.de",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "com",
+  "servers" : [ {
+    "address" : "whois.crsnic.net",
+    "availableText" : "no match for"
+  }, {
+    "address" : "whois.verisign-grs.com",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "br.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "cn.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "eu.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "gb.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "hu.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "no.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "qc.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "sa.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "se.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "uk.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "us.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "uy.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "za.com",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "commbank",
+  "servers" : [ {
+    "address" : "whois.nic.commbank",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "community",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "company",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "compare",
+  "servers" : [ {
+    "address" : "whois.nic.compare",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "computer",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "comsec",
+  "servers" : [ {
+    "address" : "whois.nic.comsec",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "condos",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "construction",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "consulting",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "contractors",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "cooking",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "cookingchannel",
+  "servers" : [ {
+    "address" : "whois.nic.cookingchannel",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "cool",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "corsica",
+  "servers" : [ {
+    "address" : "whois-corsica.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "country",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "coupons",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "courses",
+  "servers" : [ {
+    "address" : "whois.aridnrs.net.au",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "cr",
+  "servers" : [ {
+    "address" : "whois.nic.cr",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "credit",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "creditcard",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "creditunion",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "cricket",
+  "servers" : [ {
+    "address" : "whois.nic.cricket",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "cruises",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "csc",
+  "servers" : [ {
+    "address" : "whois.nic.csc",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "cuisinella",
+  "servers" : [ {
+    "address" : "whois.nic.cuisinella",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "cx",
+  "servers" : [ {
+    "address" : "whois.nic.cx",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "cymru",
+  "servers" : [ {
+    "address" : "whois.nic.cymru",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "cz",
+  "servers" : [ {
+    "address" : "whois.nic.cz",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "dabur",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "dad",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "dance",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "date",
+  "servers" : [ {
+    "address" : "whois.nic.date",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "dating",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "datsun",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "day",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "dclk",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "dds",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "de",
+  "servers" : [ {
+    "address" : "whois.denic.de",
+    "availableText" : "Status: free"
+  }, {
+    "address" : "whois.nic.de",
+    "availableText" : "Status: free"
+  } ]
+}, {
+  "tld" : "com.de",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "Status: free"
+  } ]
+}, {
+  "tld" : "deals",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "degree",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "delivery",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "deloitte",
+  "servers" : [ {
+    "address" : "whois.nic.deloitte",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "democrat",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "dental",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "dentist",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "desi",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "design",
+  "servers" : [ {
+    "address" : "whois.nic.design",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "dev",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "diamonds",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "diet",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "digital",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "direct",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "directory",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "discount",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "dk",
+  "servers" : [ {
+    "address" : "whois.dk-hostmaster.dk",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "dm",
+  "servers" : [ {
+    "address" : "whois.nic.dm",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "docs",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "dog",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "doha",
+  "servers" : [ {
+    "address" : "whois.nic.doha",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "domains",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "doosan",
+  "servers" : [ {
+    "address" : "whois.nic.xn--cg4bki",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "dot",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "download",
+  "servers" : [ {
+    "address" : "whois.nic.download",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "drive",
+  "servers" : [ {
+    "address" : "whois.nic.google",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "dtv",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "dubai",
+  "servers" : [ {
+    "address" : "whois.nic.dubai",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "dunlop",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "durban",
+  "servers" : [ {
+    "address" : "durban-whois.registry.net.za",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "dvag",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "dz",
+  "servers" : [ {
+    "address" : "whois.nic.dz",
+    "availableText" : "NO OBJECT FOUND!"
+  } ]
+}, {
+  "tld" : "eat",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "ec",
+  "servers" : [ {
+    "address" : "whois.nic.ec",
+    "availableText" : "not registered"
+  } ]
+}, {
+  "tld" : "com.ec",
+  "servers" : [ {
+    "address" : "whois.lac.net",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "fin.ec",
+  "servers" : [ {
+    "address" : "whois.lac.net",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "gov.ec",
+  "servers" : [ {
+    "address" : "whois.lac.net",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "med.ec",
+  "servers" : [ {
+    "address" : "whois.lac.net",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "mil.ec",
+  "servers" : [ {
+    "address" : "whois.lac.net",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "net.ec",
+  "servers" : [ {
+    "address" : "whois.lac.net",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "org.ec",
+  "servers" : [ {
+    "address" : "whois.lac.net",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "edeka",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "edu",
+  "servers" : [ {
+    "address" : "whois.educause.edu",
+    "availableText" : "no match"
+  }, {
+    "address" : "whois.internic.net",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "education",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "ee",
+  "servers" : [ {
+    "address" : "whois.eenet.ee",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.tld.ee",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "email",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "emerck",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "energy",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "engineer",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "engineering",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "enterprises",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "epson",
+  "servers" : [ {
+    "address" : "whois.aridnrs.net.au",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "equipment",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "ericsson",
+  "servers" : [ {
+    "address" : "whois.nic.ericsson",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "erni",
+  "servers" : [ {
+    "address" : "whois.nic.erni",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "esq",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "estate",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "eu",
+  "servers" : [ {
+    "address" : "whois.eu",
+    "availableText" : "Status: available"
+  } ]
+}, {
+  "tld" : "eurovision",
+  "servers" : [ {
+    "address" : "whois.nic.eurovision",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "eus",
+  "servers" : [ {
+    "address" : "whois.eus.coreregistry.net",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "events",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "everbank",
+  "servers" : [ {
+    "address" : "whois.nic.everbank",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "exchange",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "expert",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "exposed",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "express",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "extraspace",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "fage",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "fail",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "fairwinds",
+  "servers" : [ {
+    "address" : "whois.nic.fairwinds",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "faith",
+  "servers" : [ {
+    "address" : "whois.nic.faith",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "family",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "fan",
+  "servers" : [ {
+    "address" : "whois.nic.fan",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "fans",
+  "servers" : [ {
+    "address" : "whois.nic.fans",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "farm",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "fashion",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "fedex",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "feedback",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.feedback",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "fi",
+  "servers" : [ {
+    "address" : "whois.fi",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.ficora.fi",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "film",
+  "servers" : [ {
+    "address" : "whois.nic.film",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "final",
+  "servers" : [ {
+    "address" : "whois.gtlds.nic.br",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "finance",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "financial",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "firestone",
+  "servers" : [ {
+    "address" : "whois.nic.firestone",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "firmdale",
+  "servers" : [ {
+    "address" : "whois.nic.firmdale",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "fish",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "fishing",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "fit",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "fitness",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "fj",
+  "servers" : [ {
+    "address" : "whois.usp.ac.fj",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "flights",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "florist",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "flowers",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "flsmidth",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "fly",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "fm",
+  "servers" : [ {
+    "address" : "whois.nic.fm",
+    "availableText" : "Not Registered"
+  } ]
+}, {
+  "tld" : "fo",
+  "servers" : [ {
+    "address" : "whois.nic.fo",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "foo",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "foodnetwork",
+  "servers" : [ {
+    "address" : "whois.nic.foodnetwork",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "football",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "forex",
+  "servers" : [ {
+    "address" : "whois.nic.forex",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "forsale",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "forum",
+  "servers" : [ {
+    "address" : "whois.nic.forum",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "foundation",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "fr",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "asso.fr",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "com.fr",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "presse.fr",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "tm.fr",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "fresenius",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "frl",
+  "servers" : [ {
+    "address" : "whois.nic.frl",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "frogans",
+  "servers" : [ {
+    "address" : "whois-frogans.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "frontdoor",
+  "servers" : [ {
+    "address" : "whois.nic.frontdoor",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "fund",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "furniture",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "futbol",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "fyi",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gal",
+  "servers" : [ {
+    "address" : "whois.gal.coreregistry.net",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "gallery",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "gallo",
+  "servers" : [ {
+    "address" : "whois.nic.gallo",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "gallup",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "game",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "games",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "garden",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "gbiz",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "gd",
+  "servers" : [ {
+    "address" : "whois.nic.gd",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gdn",
+  "servers" : [ {
+    "address" : "whois.nic.gdn",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gea",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gent",
+  "servers" : [ {
+    "address" : "whois.nic.gent",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "genting",
+  "servers" : [ {
+    "address" : "whois.nic.genting",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "gg",
+  "servers" : [ {
+    "address" : "whois.channelisles.net",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.gg",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ggee",
+  "servers" : [ {
+    "address" : "whois.nic.ggee",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gi",
+  "servers" : [ {
+    "address" : "whois.afilias-grs.info",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois2.afilias-grs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gift",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "gifts",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "gives",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "giving",
+  "servers" : [ {
+    "address" : "whois.nic.giving",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "gl",
+  "servers" : [ {
+    "address" : "whois.nic.gl",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "glass",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "gle",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "global",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.global",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "globo",
+  "servers" : [ {
+    "address" : "whois.gtlds.nic.br",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "gmail",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "gmbh",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gmx",
+  "servers" : [ {
+    "address" : "whois-fe1.gmx.tango.knipp.de",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "gold",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "goldpoint",
+  "servers" : [ {
+    "address" : "whois.nic.goldpoint",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "golf",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "goo",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "goodyear",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "goog",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "google",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "gop",
+  "servers" : [ {
+    "address" : "whois-cl01.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "gov",
+  "servers" : [ {
+    "address" : "whois.dotgov.gov",
+    "availableText" : "no match for"
+  }, {
+    "address" : "whois.nic.gov",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "gq",
+  "servers" : [ {
+    "address" : "whois.dominio.gq",
+    "availableText" : "not known"
+  } ]
+}, {
+  "tld" : "gr",
+  "servers" : [ {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "graphics",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "gratis",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "green",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "gripe",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "group",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "gs",
+  "servers" : [ {
+    "address" : "whois.nic.gs",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "guge",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "guide",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "guitars",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "guru",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "gy",
+  "servers" : [ {
+    "address" : "whois.registry.gy",
+    "availableText" : "Domain Status: No Object Found"
+  } ]
+}, {
+  "tld" : "hamburg",
+  "servers" : [ {
+    "address" : "whois.nic.hamburg",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "hangout",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "haus",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "hdfcbank",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "healthcare",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "help",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "helsinki",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "here",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "hermes",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "hgtv",
+  "servers" : [ {
+    "address" : "whois.nic.hgtv",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "hiphop",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "hisamitsu",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "hitachi",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "hiv",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  }, {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "hk",
+  "servers" : [ {
+    "address" : "whois.hkirc.hk",
+    "availableText" : "The domain has not been registered"
+  }, {
+    "address" : "whois.hkirc.net.hk",
+    "availableText" : "The domain has not been registered"
+  } ]
+}, {
+  "tld" : "com.hk",
+  "servers" : [ {
+    "address" : "whois.hkdnr.net.hk",
+    "availableText" : "The domain has not been registered"
+  } ]
+}, {
+  "tld" : "edu.hk",
+  "servers" : [ {
+    "address" : "whois.hkdnr.net.hk",
+    "availableText" : "The domain has not been registered"
+  } ]
+}, {
+  "tld" : "net.hk",
+  "servers" : [ {
+    "address" : "whois.hkdnr.net.hk",
+    "availableText" : "The domain has not been registered"
+  } ]
+}, {
+  "tld" : "org.hk",
+  "servers" : [ {
+    "address" : "whois.hkdnr.net.hk",
+    "availableText" : "The domain has not been registered"
+  } ]
+}, {
+  "tld" : "hkt",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "hm",
+  "servers" : [ {
+    "address" : "whois.registry.hm",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "hn",
+  "servers" : [ {
+    "address" : "whois.nic.hn",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "hockey",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "holdings",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "holiday",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "homedepot",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "homes",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "honda",
+  "servers" : [ {
+    "address" : "whois.nic.honda",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "horse",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "host",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.host",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "hosting",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "house",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "how",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "hr",
+  "servers" : [ {
+    "address" : "whois.dns.hr",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "ht",
+  "servers" : [ {
+    "address" : "whois.nic.ht",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "hu",
+  "servers" : [ {
+    "address" : "whois.nic.hu",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "hyundai",
+  "servers" : [ {
+    "address" : "whois.nic.hyundai",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ibm",
+  "servers" : [ {
+    "address" : "whois.nic.ibm",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "ice",
+  "servers" : [ {
+    "address" : "whois.nic.ice",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "id",
+  "servers" : [ {
+    "address" : "whois.pandi.or.id",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "go.id",
+  "servers" : [ {
+    "address" : "whois.idnic.net.id",
+    "availableText" : "Not found"
+  } ]
+}, {
+  "tld" : "mil.id",
+  "servers" : [ {
+    "address" : "whois.idnic.net.id",
+    "availableText" : "Not found"
+  } ]
+}, {
+  "tld" : "ie",
+  "servers" : [ {
+    "address" : "whois.domainregistry.ie",
+    "availableText" : "not registered"
+  } ]
+}, {
+  "tld" : "ifm",
+  "servers" : [ {
+    "address" : "whois.nic.ifm",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "iinet",
+  "servers" : [ {
+    "address" : "whois.aridnrs.net.au",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ikano",
+  "servers" : [ {
+    "address" : "whois.ikano.tld-box.at",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "no data was found"
+  } ]
+}, {
+  "tld" : "ac.il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "No data was found"
+  } ]
+}, {
+  "tld" : "co.il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "No data was found"
+  } ]
+}, {
+  "tld" : "gov.il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "No data was found"
+  } ]
+}, {
+  "tld" : "k12.il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "No data was found"
+  } ]
+}, {
+  "tld" : "muni.il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "No data was found"
+  } ]
+}, {
+  "tld" : "net.il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "No data was found"
+  } ]
+}, {
+  "tld" : "org.il",
+  "servers" : [ {
+    "address" : "whois.isoc.org.il",
+    "availableText" : "No data was found"
+  } ]
+}, {
+  "tld" : "im",
+  "servers" : [ {
+    "address" : "whois.nic.im",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "imamat",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "immo",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "immobilien",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  }, {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.registry.in",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ac.in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "co.in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "ernet.in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "gov.in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "net.in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "org.in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "res.in",
+  "servers" : [ {
+    "address" : "whois.inregistry.in",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "industries",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "infiniti",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "info",
+  "servers" : [ {
+    "address" : "whois.afilias.info",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "ing",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "ink",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.ink",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "institute",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "insurance",
+  "servers" : [ {
+    "address" : "whois.nic.insurance",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "insure",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "int",
+  "servers" : [ {
+    "address" : "whois.iana.org",
+    "availableText" : "but this server does not have"
+  } ]
+}, {
+  "tld" : "international",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "investments",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "io",
+  "servers" : [ {
+    "address" : "whois.nic.io",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "iq",
+  "servers" : [ {
+    "address" : "whois.cmc.iq",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "ir",
+  "servers" : [ {
+    "address" : "whois.nic.ir",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "irish",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "is",
+  "servers" : [ {
+    "address" : "whois.isnic.is",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "iselect",
+  "servers" : [ {
+    "address" : "whois.nic.iselect",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ismaili",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ist",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "istanbul",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "it",
+  "servers" : [ {
+    "address" : "whois.nic.it",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "itv",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "jaguar",
+  "servers" : [ {
+    "address" : "whois.nic.jaguar",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "java",
+  "servers" : [ {
+    "address" : "whois.nic.java",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "jcb",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "jcp",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "je",
+  "servers" : [ {
+    "address" : "whois.channelisles.net",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.je",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "jetzt",
+  "servers" : [ {
+    "address" : "whois.nic.jetzt",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "jewelry",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "jll",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "jobs",
+  "servers" : [ {
+    "address" : "whois.nic.jobs",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "joburg",
+  "servers" : [ {
+    "address" : "joburg-whois.registry.net.za",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "jp",
+  "servers" : [ {
+    "address" : "whois.jprs.jp",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ac.jp",
+  "servers" : [ {
+    "address" : "whois.nic.ad.jp",
+    "availableText" : "No match!!"
+  }, {
+    "address" : "whois.jprs.jp",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "go.jp",
+  "servers" : [ {
+    "address" : "whois.nic.ad.jp",
+    "availableText" : "No match!!"
+  }, {
+    "address" : "whois.jprs.jp",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ne.jp",
+  "servers" : [ {
+    "address" : "whois.nic.ad.jp",
+    "availableText" : "No match!!"
+  }, {
+    "address" : "whois.jprs.jp",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "or.jp",
+  "servers" : [ {
+    "address" : "whois.nic.ad.jp",
+    "availableText" : "No match!!"
+  }, {
+    "address" : "whois.jprs.jp",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "juegos",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "kaufen",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "kddi",
+  "servers" : [ {
+    "address" : "whois.nic.kddi",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ke",
+  "servers" : [ {
+    "address" : "whois.kenic.or.ke",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "ac.ke",
+  "servers" : [ {
+    "address" : "whois.kenic.or.ke",
+    "availableText" : "Not Registered"
+  } ]
+}, {
+  "tld" : "co.ke",
+  "servers" : [ {
+    "address" : "whois.kenic.or.ke",
+    "availableText" : "Not Registered"
+  } ]
+}, {
+  "tld" : "kerryhotels",
+  "servers" : [ {
+    "address" : "whois.nic.kerryhotels",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "kerrylogistics",
+  "servers" : [ {
+    "address" : "whois.nic.kerrylogistics",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "kerryproperties",
+  "servers" : [ {
+    "address" : "whois.nic.kerryproperties",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ki",
+  "servers" : [ {
+    "address" : "whois.nic.ki",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "kia",
+  "servers" : [ {
+    "address" : "whois.nic.kia",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "kim",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "kitchen",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "kiwi",
+  "servers" : [ {
+    "address" : "whois.dot-kiwi.com",
+    "availableText" : "available"
+  }, {
+    "address" : "whois.nic.kiwi",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "kn",
+  "servers" : [ {
+    "address" : "whois.nic.kn",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "koeln",
+  "servers" : [ {
+    "address" : "whois-fe1.pdt.koeln.tango.knipp.de",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "komatsu",
+  "servers" : [ {
+    "address" : "whois.nic.komatsu",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "kosher",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "kr",
+  "servers" : [ {
+    "address" : "whois.kr",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ac.kr",
+  "servers" : [ {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "co.kr",
+  "servers" : [ {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "go.kr",
+  "servers" : [ {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "ne.kr",
+  "servers" : [ {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "nm.kr",
+  "servers" : [ {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "or.kr",
+  "servers" : [ {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "re.kr",
+  "servers" : [ {
+    "address" : "whois.nic.or.kr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "krd",
+  "servers" : [ {
+    "address" : "whois.aridnrs.net.au",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "kred",
+  "servers" : [ {
+    "address" : "whois.nic.kred",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "kuokgroup",
+  "servers" : [ {
+    "address" : "whois.nic.kuokgroup",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ky",
+  "servers" : [ {
+    "address" : "whois.kyregistry.ky",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "kyoto",
+  "servers" : [ {
+    "address" : "whois.nic.kyoto",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "kz",
+  "servers" : [ {
+    "address" : "whois.nic.kz",
+    "availableText" : "nothing found"
+  } ]
+}, {
+  "tld" : "la",
+  "servers" : [ {
+    "address" : "whois.nic.la",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lacaixa",
+  "servers" : [ {
+    "address" : "whois.nic.lacaixa",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "lamborghini",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lamer",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lancaster",
+  "servers" : [ {
+    "address" : "whois-lancaster.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "land",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "landrover",
+  "servers" : [ {
+    "address" : "whois.nic.landrover",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "lasalle",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lat",
+  "servers" : [ {
+    "address" : "whois.nic.lat",
+    "availableText" : "no existe"
+  } ]
+}, {
+  "tld" : "latrobe",
+  "servers" : [ {
+    "address" : "whois.nic.latrobe",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "law",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "lawyer",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "lc",
+  "servers" : [ {
+    "address" : "whois.afilias-grs.info",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois2.afilias-grs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "lease",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "leclerc",
+  "servers" : [ {
+    "address" : "whois-leclerc.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "legal",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "lego",
+  "servers" : [ {
+    "address" : "whois.nic.lego",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "lexus",
+  "servers" : [ {
+    "address" : "whois.nic.lexus",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lgbt",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "li",
+  "servers" : [ {
+    "address" : "whois.nic.li",
+    "availableText" : "not have an entry"
+  } ]
+}, {
+  "tld" : "liaison",
+  "servers" : [ {
+    "address" : "whois.nic.liaison",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "lidl",
+  "servers" : [ {
+    "address" : "whois.nic.lidl",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "life",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "lifestyle",
+  "servers" : [ {
+    "address" : "whois.nic.lifestyle",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "lighting",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "limited",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "limo",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "linde",
+  "servers" : [ {
+    "address" : "whois.nic.linde",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "link",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "lipsy",
+  "servers" : [ {
+    "address" : "whois.nic.lipsy",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "live",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lixil",
+  "servers" : [ {
+    "address" : "whois.nic.lixil",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "loan",
+  "servers" : [ {
+    "address" : "whois.nic.loan",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "loans",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "locker",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "locus",
+  "servers" : [ {
+    "address" : "whois.nic.locus",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "lol",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "london",
+  "servers" : [ {
+    "address" : "whois-lon.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "lotte",
+  "servers" : [ {
+    "address" : "whois.nic.lotte",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lotto",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "love",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.love",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lt",
+  "servers" : [ {
+    "address" : "whois.domreg.lt",
+    "availableText" : "available"
+  }, {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "ltd",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ltda",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "lu",
+  "servers" : [ {
+    "address" : "whois.dns.lu",
+    "availableText" : "% no such domain"
+  } ]
+}, {
+  "tld" : "luxe",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "luxury",
+  "servers" : [ {
+    "address" : "whois.nic.luxury",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "lv",
+  "servers" : [ {
+    "address" : "whois.nic.lv",
+    "availableText" : "Status: free"
+  }, {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "eu.lv",
+  "servers" : [ {
+    "address" : "whois.biz",
+    "availableText" : "Not found"
+  } ]
+}, {
+  "tld" : "ly",
+  "servers" : [ {
+    "address" : "whois.nic.ly",
+    "availableText" : "Not found"
+  } ]
+}, {
+  "tld" : "ma",
+  "servers" : [ {
+    "address" : "whois.iam.net.ma",
+    "availableText" : "No Object Found"
+  }, {
+    "address" : "whois.registre.ma",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "madrid",
+  "servers" : [ {
+    "address" : "whois.madrid.rs.corenic.net",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "maison",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "makeup",
+  "servers" : [ {
+    "address" : "whois.nic.makeup",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "man",
+  "servers" : [ {
+    "address" : "whois.nic.man",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "management",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "mango",
+  "servers" : [ {
+    "address" : "whois.mango.coreregistry.net",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "market",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "marketing",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "markets",
+  "servers" : [ {
+    "address" : "whois.nic.markets",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "marriott",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "mba",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "asso.mc",
+  "servers" : [ {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "tm.mc",
+  "servers" : [ {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "me",
+  "servers" : [ {
+    "address" : "whois.nic.me",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "med",
+  "servers" : [ {
+    "address" : "whois.nic.med",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "media",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "meet",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "melbourne",
+  "servers" : [ {
+    "address" : "whois.aridnrs.net.au",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "meme",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "memorial",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "men",
+  "servers" : [ {
+    "address" : "whois.nic.men",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "menu",
+  "servers" : [ {
+    "address" : "whois.nic.menu",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "metlife",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "mg",
+  "servers" : [ {
+    "address" : "whois.nic.mg",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "miami",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "mil",
+  "servers" : [ {
+    "address" : "whois.internic.net",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "mini",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "mk",
+  "servers" : [ {
+    "address" : "whois.marnet.mk",
+    "availableText" : "% No entries found."
+  } ]
+}, {
+  "tld" : "ml",
+  "servers" : [ {
+    "address" : "whois.dot.ml",
+    "availableText" : "not known"
+  } ]
+}, {
+  "tld" : "mls",
+  "servers" : [ {
+    "address" : "whois.nic.mls",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "com.mm",
+  "servers" : [ {
+    "address" : "whois.nic.mm",
+    "availableText" : "No domains matched"
+  } ]
+}, {
+  "tld" : "edu.mm",
+  "servers" : [ {
+    "address" : "whois.nic.mm",
+    "availableText" : "No domains matched"
+  } ]
+}, {
+  "tld" : "gov.mm",
+  "servers" : [ {
+    "address" : "whois.nic.mm",
+    "availableText" : "No domains matched"
+  } ]
+}, {
+  "tld" : "net.mm",
+  "servers" : [ {
+    "address" : "whois.nic.mm",
+    "availableText" : "No domains matched"
+  } ]
+}, {
+  "tld" : "org.mm",
+  "servers" : [ {
+    "address" : "whois.nic.mm",
+    "availableText" : "No domains matched"
+  } ]
+}, {
+  "tld" : "mn",
+  "servers" : [ {
+    "address" : "whois.afilias-grs.info",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "mo",
+  "servers" : [ {
+    "address" : "whois.monic.mo",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "mobi",
+  "servers" : [ {
+    "address" : "whois.dotmobiregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "moda",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "moe",
+  "servers" : [ {
+    "address" : "whois.nic.moe",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "mom",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "monash",
+  "servers" : [ {
+    "address" : "whois.nic.monash",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "money",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "mortgage",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "moscow",
+  "servers" : [ {
+    "address" : "whois.nic.moscow",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "motorcycles",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "mov",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "movie",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "movistar",
+  "servers" : [ {
+    "address" : "whois-fe.movistar.tango.knipp.de",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ms",
+  "servers" : [ {
+    "address" : "whois.nic.ms",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "mtn",
+  "servers" : [ {
+    "address" : "whois.nic.mtn",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "mtpc",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "mtr",
+  "servers" : [ {
+    "address" : "whois.nic.mtr",
+    "availableText" : "The domain has not been registered"
+  } ]
+}, {
+  "tld" : "mu",
+  "servers" : [ {
+    "address" : "whois.nic.mu",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "museum",
+  "servers" : [ {
+    "address" : "whois.museum",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "mutuelle",
+  "servers" : [ {
+    "address" : "whois-mutuelle.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "mx",
+  "servers" : [ {
+    "address" : "whois.mx",
+    "availableText" : "Object_Not_Found"
+  }, {
+    "address" : "whois.nic.mx",
+    "availableText" : "Object_Not_Found"
+  } ]
+}, {
+  "tld" : "com.mx",
+  "servers" : [ {
+    "address" : "whois.nic.mx",
+    "availableText" : "Object_Not_Found"
+  } ]
+}, {
+  "tld" : "edu.mx",
+  "servers" : [ {
+    "address" : "whois.nic.mx",
+    "availableText" : "Object_Not_Found"
+  } ]
+}, {
+  "tld" : "gob.mx",
+  "servers" : [ {
+    "address" : "whois.nic.mx",
+    "availableText" : "Object_Not_Found"
+  } ]
+}, {
+  "tld" : "gov.mx",
+  "servers" : [ {
+    "address" : "whois.nic.mx",
+    "availableText" : "Object_Not_Found"
+  } ]
+}, {
+  "tld" : "net.mx",
+  "servers" : [ {
+    "address" : "whois.nic.mx",
+    "availableText" : "Object_Not_Found"
+  } ]
+}, {
+  "tld" : "org.mx",
+  "servers" : [ {
+    "address" : "whois.nic.mx",
+    "availableText" : "Object_Not_Found"
+  } ]
+}, {
+  "tld" : "com.my",
+  "servers" : [ {
+    "address" : "whois.mynic.net.my",
+    "availableText" : "does not exist"
+  } ]
+}, {
+  "tld" : "edu.my",
+  "servers" : [ {
+    "address" : "whois.mynic.net.my",
+    "availableText" : "does not exist"
+  } ]
+}, {
+  "tld" : "gov.my",
+  "servers" : [ {
+    "address" : "whois.mynic.net.my",
+    "availableText" : "does not exist"
+  } ]
+}, {
+  "tld" : "net.my",
+  "servers" : [ {
+    "address" : "whois.mynic.net.my",
+    "availableText" : "does not exist"
+  } ]
+}, {
+  "tld" : "org.my",
+  "servers" : [ {
+    "address" : "whois.mynic.net.my",
+    "availableText" : "does not exist"
+  } ]
+}, {
+  "tld" : "mz",
+  "servers" : [ {
+    "address" : "whois.nic.mz",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "na",
+  "servers" : [ {
+    "address" : "whois.na-nic.com.na",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "nadex",
+  "servers" : [ {
+    "address" : "whois.nic.nadex",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "nagoya",
+  "servers" : [ {
+    "address" : "whois.gmoregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "name",
+  "servers" : [ {
+    "address" : "whois.nic.name",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "natura",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "navy",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "nc",
+  "servers" : [ {
+    "address" : "whois.nc",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "nec",
+  "servers" : [ {
+    "address" : "whois.nic.nec",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "net",
+  "servers" : [ {
+    "address" : "whois.crsnic.net",
+    "availableText" : "no match for"
+  }, {
+    "address" : "whois.verisign-grs.com",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "gb.net",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "se.net",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "uk.net",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "DOMAIN NOT FOUND"
+  } ]
+}, {
+  "tld" : "netbank",
+  "servers" : [ {
+    "address" : "whois.nic.netbank",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "network",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "new",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "news",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "next",
+  "servers" : [ {
+    "address" : "whois.nic.next",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "nextdirect",
+  "servers" : [ {
+    "address" : "whois.nic.nextdirect",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "nexus",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "nf",
+  "servers" : [ {
+    "address" : "whois.nic.nf",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "ng",
+  "servers" : [ {
+    "address" : "whois.nic.net.ng",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "ngo",
+  "servers" : [ {
+    "address" : "whois.publicinterestregistry.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "nico",
+  "servers" : [ {
+    "address" : "whois.nic.nico",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "nikon",
+  "servers" : [ {
+    "address" : "whois.nic.nikon",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ninja",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "nissan",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "nissay",
+  "servers" : [ {
+    "address" : "whois.nic.nissay",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "nl",
+  "servers" : [ {
+    "address" : "whois.domain-registry.nl",
+    "availableText" : "is free"
+  } ]
+}, {
+  "tld" : "no",
+  "servers" : [ {
+    "address" : "whois.norid.no",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "nokia",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "norton",
+  "servers" : [ {
+    "address" : "whois.nic.norton",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "nowruz",
+  "servers" : [ {
+    "address" : "whois.agitsys.net",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "nowtv",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "nra",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "nrw",
+  "servers" : [ {
+    "address" : "whois.nic.nrw",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "nu",
+  "servers" : [ {
+    "address" : "whois.iis.nu",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.nu",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "nyc",
+  "servers" : [ {
+    "address" : "whois.nic.nyc",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "ac.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "co.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "geek.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "gen.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "iwi.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "kiwi.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "maori.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "net.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "org.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "school.nz",
+  "servers" : [ {
+    "address" : "whois.srs.net.nz",
+    "availableText" : "220 Available"
+  } ]
+}, {
+  "tld" : "obi",
+  "servers" : [ {
+    "address" : "whois.nic.obi",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "olayan",
+  "servers" : [ {
+    "address" : "whois.nic.olayan",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "olayangroup",
+  "servers" : [ {
+    "address" : "whois.nic.olayangroup",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ollo",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "om",
+  "servers" : [ {
+    "address" : "whois.registry.om",
+    "availableText" : "no data found"
+  } ]
+}, {
+  "tld" : "omega",
+  "servers" : [ {
+    "address" : "whois.nic.omega",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "one",
+  "servers" : [ {
+    "address" : "whois.nic.one",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "ong",
+  "servers" : [ {
+    "address" : "whois.publicinterestregistry.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "onl",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "online",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ooo",
+  "servers" : [ {
+    "address" : "whois.nic.ooo",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "oracle",
+  "servers" : [ {
+    "address" : "whois.nic.oracle",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "orange",
+  "servers" : [ {
+    "address" : "whois.nic.orange",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "org",
+  "servers" : [ {
+    "address" : "whois.pir.org",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.publicinterestregistry.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "organic",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "orientexpress",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "origins",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "osaka",
+  "servers" : [ {
+    "address" : "whois.nic.osaka",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ott",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ovh",
+  "servers" : [ {
+    "address" : "whois-ovh.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "page",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "paris",
+  "servers" : [ {
+    "address" : "whois-paris.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "pars",
+  "servers" : [ {
+    "address" : "whois.agitsys.net",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "partners",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "parts",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "party",
+  "servers" : [ {
+    "address" : "whois.nic.party",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "pccw",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pe",
+  "servers" : [ {
+    "address" : "kero.yachay.pe",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "pet",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pf",
+  "servers" : [ {
+    "address" : "whois.registry.pf",
+    "availableText" : "Domain unknown"
+  } ]
+}, {
+  "tld" : "philips",
+  "servers" : [ {
+    "address" : "whois.nic.philips",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "photo",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "photography",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "photos",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "physio",
+  "servers" : [ {
+    "address" : "whois.nic.physio",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "pics",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "pictures",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "pid",
+  "servers" : [ {
+    "address" : "whois.nic.pid",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pink",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pioneer",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pizza",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "agro.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "aid.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "atm.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "auto.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "biz.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "com.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "edu.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "gmina.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "gsm.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "info.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "mail.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "media.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "miasta.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "mil.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "net.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "nom.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "org.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "pc.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "priv.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "realestate.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "rel.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "shop.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "sklep.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "sos.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "targi.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "tm.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "tourism.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "travel.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "turystyka.pl",
+  "servers" : [ {
+    "address" : "whois.dns.pl",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "place",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "play",
+  "servers" : [ {
+    "address" : "whois.nic.google",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "playstation",
+  "servers" : [ {
+    "address" : "whois.nic.playstation",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "plumbing",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "plus",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pm",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.nic.pm",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "pnc",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pohl",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "poker",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "politie",
+  "servers" : [ {
+    "address" : "whois.nic.politie",
+    "availableText" : "Status: free"
+  } ]
+}, {
+  "tld" : "porn",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "post",
+  "servers" : [ {
+    "address" : "whois.dotpostregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pr",
+  "servers" : [ {
+    "address" : "whois.nic.pr",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "press",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.press",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pro",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.internic.net",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "prod",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "productions",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "prof",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "progressive",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "promo",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "properties",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "property",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "protection",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.protection",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ps",
+  "servers" : [ {
+    "address" : "whois.pnina.ps",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "pt",
+  "servers" : [ {
+    "address" : "whois.dns.pt",
+    "availableText" : "no match"
+  }, {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "com.pt",
+  "servers" : [ {
+    "address" : "whois.dns.pt",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "edu.pt",
+  "servers" : [ {
+    "address" : "whois.dns.pt",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "pub",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "pwc",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "qa",
+  "servers" : [ {
+    "address" : "whois.registry.qa",
+    "availableText" : "no data found"
+  } ]
+}, {
+  "tld" : "qpon",
+  "servers" : [ {
+    "address" : "whois.nic.qpon",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "quebec",
+  "servers" : [ {
+    "address" : "whois.nic.quebec",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "quest",
+  "servers" : [ {
+    "address" : "whois.nic.quest",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "racing",
+  "servers" : [ {
+    "address" : "whois.nic.racing",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "re",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.nic.re",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "realestate",
+  "servers" : [ {
+    "address" : "whois.nic.realestate",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "realty",
+  "servers" : [ {
+    "address" : "whois.nic.realty",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "recipes",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "red",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "redstone",
+  "servers" : [ {
+    "address" : "whois.nic.redstone",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "redumbrella",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "rehab",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "reise",
+  "servers" : [ {
+    "address" : "whois.nic.reise",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "reisen",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "reit",
+  "servers" : [ {
+    "address" : "whois.nic.reit",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "rentals",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "repair",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "report",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "republican",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "rest",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "restaurant",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "review",
+  "servers" : [ {
+    "address" : "whois.nic.review",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "reviews",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "rexroth",
+  "servers" : [ {
+    "address" : "whois.nic.rexroth",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "rich",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "richardli",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ricoh",
+  "servers" : [ {
+    "address" : "whois.nic.ricoh",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "rio",
+  "servers" : [ {
+    "address" : "whois.gtlds.nic.br",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "rip",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "arts.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "com.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "firm.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "info.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "nom.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "nt.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "org.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "rec.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "store.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "tm.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "www.ro",
+  "servers" : [ {
+    "address" : "whois.rotld.ro",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "rocks",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "rodeo",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "rs",
+  "servers" : [ {
+    "address" : "whois.rnids.rs",
+    "availableText" : "is not registered"
+  } ]
+}, {
+  "tld" : "co.rs",
+  "servers" : [ {
+    "address" : "whois.rnids.rs",
+    "availableText" : "%ERROR:103"
+  } ]
+}, {
+  "tld" : "edu.rs",
+  "servers" : [ {
+    "address" : "whois.rnids.rs",
+    "availableText" : "%ERROR:103"
+  } ]
+}, {
+  "tld" : "in.rs",
+  "servers" : [ {
+    "address" : "whois.rnids.rs",
+    "availableText" : "%ERROR:103"
+  } ]
+}, {
+  "tld" : "org.rs",
+  "servers" : [ {
+    "address" : "whois.rnids.rs",
+    "availableText" : "%ERROR:103"
+  } ]
+}, {
+  "tld" : "rsvp",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "ru",
+  "servers" : [ {
+    "address" : "whois.ripn.net",
+    "availableText" : "No entries found"
+  }, {
+    "address" : "whois.tcinet.ru",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "com.ru",
+  "servers" : [ {
+    "address" : "whois.ripn.net",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "msk.ru",
+  "servers" : [ {
+    "address" : "whois.nic.ru",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "net.ru",
+  "servers" : [ {
+    "address" : "whois.ripn.net",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "org.ru",
+  "servers" : [ {
+    "address" : "whois.nic.ru",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "pp.ru",
+  "servers" : [ {
+    "address" : "whois.nic.ru",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "spb.ru",
+  "servers" : [ {
+    "address" : "whois.nic.ru",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "ruhr",
+  "servers" : [ {
+    "address" : "whois.nic.ruhr",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "run",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "rw",
+  "servers" : [ {
+    "address" : "whois.ricta.org.rw",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "rwe",
+  "servers" : [ {
+    "address" : "whois.nic.rwe",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sa",
+  "servers" : [ {
+    "address" : "whois.nic.net.sa",
+    "availableText" : "No Match"
+  } ]
+}, {
+  "tld" : "saarland",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "sale",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "salon",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "samsung",
+  "servers" : [ {
+    "address" : "whois.nic.samsung",
+    "availableText" : "no match"
+  }, {
+    "address" : "whois.nic.xn--cg4bki",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sandvik",
+  "servers" : [ {
+    "address" : "whois.nic.sandvik",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "sandvikcoromant",
+  "servers" : [ {
+    "address" : "whois.nic.sandvikcoromant",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "sanofi",
+  "servers" : [ {
+    "address" : "whois.nic.sanofi",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sap",
+  "servers" : [ {
+    "address" : "whois.nic.sap",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sarl",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "saxo",
+  "servers" : [ {
+    "address" : "whois.aridnrs.net.au",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "sb",
+  "servers" : [ {
+    "address" : "whois.nic.net.sb",
+    "availableText" : "No Object Found"
+  }, {
+    "address" : "whois.nic.sb",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "sbi",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "sbs",
+  "servers" : [ {
+    "address" : "whois.nic.sbs",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sc",
+  "servers" : [ {
+    "address" : "whois.afilias-grs.info",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois2.afilias-grs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "sca",
+  "servers" : [ {
+    "address" : "whois.nic.sca",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "scb",
+  "servers" : [ {
+    "address" : "whois.nic.scb",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "schaeffler",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "schmidt",
+  "servers" : [ {
+    "address" : "whois.nic.schmidt",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "school",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "schule",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "schwarz",
+  "servers" : [ {
+    "address" : "whois.nic.schwarz",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "science",
+  "servers" : [ {
+    "address" : "whois.nic.science",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "scor",
+  "servers" : [ {
+    "address" : "whois.nic.scor",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "scot",
+  "servers" : [ {
+    "address" : "whois.scot.coreregistry.net",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "se",
+  "servers" : [ {
+    "address" : "whois.iis.se",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic-se.se",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.se",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "seat",
+  "servers" : [ {
+    "address" : "whois.nic.seat",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "seek",
+  "servers" : [ {
+    "address" : "whois.nic.seek",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "select",
+  "servers" : [ {
+    "address" : "whois.nic.select",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "services",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "seven",
+  "servers" : [ {
+    "address" : "whois.nic.seven",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "sew",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "sex",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "sexy",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "sfr",
+  "servers" : [ {
+    "address" : "whois.nic.sfr",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sg",
+  "servers" : [ {
+    "address" : "whois.nic.net.sg",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.sgnic.sg",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "com.sg",
+  "servers" : [ {
+    "address" : "whois.nic.net.sg",
+    "availableText" : "Domain Not Found"
+  } ]
+}, {
+  "tld" : "edu.sg",
+  "servers" : [ {
+    "address" : "whois.nic.net.sg",
+    "availableText" : "Domain Not Found"
+  } ]
+}, {
+  "tld" : "gov.sg",
+  "servers" : [ {
+    "address" : "whois.nic.net.sg",
+    "availableText" : "Domain Not Found"
+  } ]
+}, {
+  "tld" : "net.sg",
+  "servers" : [ {
+    "address" : "whois.nic.net.sg",
+    "availableText" : "Domain Not Found"
+  } ]
+}, {
+  "tld" : "org.sg",
+  "servers" : [ {
+    "address" : "whois.nic.net.sg",
+    "availableText" : "Domain Not Found"
+  } ]
+}, {
+  "tld" : "sh",
+  "servers" : [ {
+    "address" : "whois.nic.sh",
+    "availableText" : "is available for purchase"
+  } ]
+}, {
+  "tld" : "shangrila",
+  "servers" : [ {
+    "address" : "whois.nic.shangrila",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sharp",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "shaw",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "shell",
+  "servers" : [ {
+    "address" : "whois.nic.shell",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "shia",
+  "servers" : [ {
+    "address" : "whois.agitsys.net",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "shiksha",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "shoes",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "shopping",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "shouji",
+  "servers" : [ {
+    "address" : "whois.teleinfo.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "show",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "shriram",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "si",
+  "servers" : [ {
+    "address" : "whois.arnes.si",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.register.si",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "sina",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "singles",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "sk",
+  "servers" : [ {
+    "address" : "whois.ripe.net",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.sk-nic.sk",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ski",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "skin",
+  "servers" : [ {
+    "address" : "whois.nic.skin",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sky",
+  "servers" : [ {
+    "address" : "whois.nic.sky",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sl",
+  "servers" : [ {
+    "address" : "whois.nic.sl",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "sm",
+  "servers" : [ {
+    "address" : "whois.nic.sm",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "sn",
+  "servers" : [ {
+    "address" : "whois.nic.sn",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "sncf",
+  "servers" : [ {
+    "address" : "whois-sncf.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "so",
+  "servers" : [ {
+    "address" : "whois.nic.so",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "soccer",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "social",
+  "servers" : [ {
+    "address" : "whois.unitedtld.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "softbank",
+  "servers" : [ {
+    "address" : "whois.nic.softbank",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "software",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "sohu",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "solar",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "solutions",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "sony",
+  "servers" : [ {
+    "address" : "whois.nic.sony",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "soy",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "space",
+  "servers" : [ {
+    "address" : "whois.nic.space",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "spiegel",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "spreadbetting",
+  "servers" : [ {
+    "address" : "whois.nic.spreadbetting",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "srl",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "st",
+  "servers" : [ {
+    "address" : "whois.nic.st",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "stada",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "star",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "starhub",
+  "servers" : [ {
+    "address" : "whois.nic.starhub",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "statebank",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "statoil",
+  "servers" : [ {
+    "address" : "whois.nic.statoil",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "stc",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "stockholm",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "storage",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "store",
+  "servers" : [ {
+    "address" : "whois.nic.store",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "studio",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "study",
+  "servers" : [ {
+    "address" : "whois.nic.study",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "style",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "su",
+  "servers" : [ {
+    "address" : "whois.ripn.net",
+    "availableText" : "No entries found"
+  }, {
+    "address" : "whois.tcinet.ru",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "sochi.su",
+  "servers" : [ {
+    "address" : "whois.nic.ru",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "sucks",
+  "servers" : [ {
+    "address" : "whois.nic.sucks",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "supplies",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "supply",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "support",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "surf",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "surgery",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "swatch",
+  "servers" : [ {
+    "address" : "whois.nic.swatch",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "swiss",
+  "servers" : [ {
+    "address" : "whois.nic.swiss",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "sx",
+  "servers" : [ {
+    "address" : "whois.sx",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "sy",
+  "servers" : [ {
+    "address" : "whois.tld.sy",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "sydney",
+  "servers" : [ {
+    "address" : "whois.nic.sydney",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "symantec",
+  "servers" : [ {
+    "address" : "whois.nic.symantec",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "systems",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "tab",
+  "servers" : [ {
+    "address" : "whois.nic.tab",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "taipei",
+  "servers" : [ {
+    "address" : "whois.nic.taipei",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "tatamotors",
+  "servers" : [ {
+    "address" : "whois.nic.tatamotors",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "tatar",
+  "servers" : [ {
+    "address" : "whois.nic.tatar",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "tattoo",
+  "servers" : [ {
+    "address" : "whois.uniregistry.net",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "tax",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "taxi",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tc",
+  "servers" : [ {
+    "address" : "whois.adamsnames.tc",
+    "availableText" : "No Object Found"
+  }, {
+    "address" : "whois.meridiantld.net",
+    "availableText" : "No Object Found"
+  }, {
+    "address" : "whois.nic.tc",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "tci",
+  "servers" : [ {
+    "address" : "whois.agitsys.net",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "tdk",
+  "servers" : [ {
+    "address" : "whois.nic.tdk",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "team",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tech",
+  "servers" : [ {
+    "address" : "whois.nic.tech",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "technology",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "tel",
+  "servers" : [ {
+    "address" : "whois.nic.tel",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "telecity",
+  "servers" : [ {
+    "address" : "whois.nic.telecity",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "telefonica",
+  "servers" : [ {
+    "address" : "whois-fe.telefonica.tango.knipp.de",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "temasek",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tennis",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "teva",
+  "servers" : [ {
+    "address" : "whois.nic.teva",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "tf",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.nic.tf",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "tg",
+  "servers" : [ {
+    "address" : "whois.nic.tg",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "th",
+  "servers" : [ {
+    "address" : "whois.thnic.co.th",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "ac.th",
+  "servers" : [ {
+    "address" : "whois.thnic.net",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "co.th",
+  "servers" : [ {
+    "address" : "whois.thnic.net",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "go.th",
+  "servers" : [ {
+    "address" : "whois.thnic.net",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "in.th",
+  "servers" : [ {
+    "address" : "whois.thnic.net",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "mi.th",
+  "servers" : [ {
+    "address" : "whois.thnic.net",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "net.th",
+  "servers" : [ {
+    "address" : "whois.thnic.net",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "or.th",
+  "servers" : [ {
+    "address" : "whois.thnic.net",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "theater",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "theatre",
+  "servers" : [ {
+    "address" : "whois.nic.theatre",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tickets",
+  "servers" : [ {
+    "address" : "whois.nic.tickets",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tienda",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "tiffany",
+  "servers" : [ {
+    "address" : "whois.nic.tiffany",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "tiffay",
+  "servers" : [ {
+    "address" : "whois.nic.tiffany",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "tips",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "tires",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "tirol",
+  "servers" : [ {
+    "address" : "whois.nic.tirol",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "tk",
+  "servers" : [ {
+    "address" : "whois.dot.tk",
+    "availableText" : "not known"
+  } ]
+}, {
+  "tld" : "tl",
+  "servers" : [ {
+    "address" : "whois.nic.tl",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "tm",
+  "servers" : [ {
+    "address" : "whois.nic.tm",
+    "availableText" : "is available"
+  } ]
+}, {
+  "tld" : "to",
+  "servers" : [ {
+    "address" : "monarch.tonic.to",
+    "availableText" : "no match for"
+  }, {
+    "address" : "whois.tonic.to",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "today",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "tokyo",
+  "servers" : [ {
+    "address" : "whois.nic.tokyo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tools",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "top",
+  "servers" : [ {
+    "address" : "whois.nic.top",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "toray",
+  "servers" : [ {
+    "address" : "whois.nic.toray",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "toshiba",
+  "servers" : [ {
+    "address" : "whois.nic.toshiba",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "total",
+  "servers" : [ {
+    "address" : "whois-total.nic.fr",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "tours",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "town",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "toyota",
+  "servers" : [ {
+    "address" : "whois.nic.toyota",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "toys",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "bbs.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "com.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "edu.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "gov.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "k12.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "mil.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "net.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "org.tr",
+  "servers" : [ {
+    "address" : "whois.metu.edu.tr",
+    "availableText" : "No match found"
+  } ]
+}, {
+  "tld" : "trade",
+  "servers" : [ {
+    "address" : "whois.nic.trade",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "trading",
+  "servers" : [ {
+    "address" : "whois.nic.trading",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "training",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "travel",
+  "servers" : [ {
+    "address" : "whois.nic.travel",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "travelchannel",
+  "servers" : [ {
+    "address" : "whois.nic.travelchannel",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "travelers",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "travelersinsurance",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "trust",
+  "servers" : [ {
+    "address" : "whois.nic.trust",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "trv",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tui",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "tv",
+  "servers" : [ {
+    "address" : "tvwhois.verisign-grs.com",
+    "availableText" : "no match for"
+  }, {
+    "address" : "whois.nic.tv",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "tvs",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "tw",
+  "servers" : [ {
+    "address" : "whois.twnic.net.tw",
+    "availableText" : "No Found"
+  } ]
+}, {
+  "tld" : "com.tw",
+  "servers" : [ {
+    "address" : "whois.twnic.net",
+    "availableText" : "No Found"
+  } ]
+}, {
+  "tld" : "net.tw",
+  "servers" : [ {
+    "address" : "whois.twnic.net",
+    "availableText" : "No Found"
+  } ]
+}, {
+  "tld" : "org.tw",
+  "servers" : [ {
+    "address" : "whois.twnic.net",
+    "availableText" : "No Found"
+  } ]
+}, {
+  "tld" : "tz",
+  "servers" : [ {
+    "address" : "whois.tznic.or.tz",
+    "availableText" : "% No entries found."
+  } ]
+}, {
+  "tld" : "ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No Object Found"
+  }, {
+    "address" : "whois.ua",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "com.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "no object found"
+  } ]
+}, {
+  "tld" : "dn.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "kh.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "kiev.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "lg.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "lviv.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "net.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "org.ua",
+  "servers" : [ {
+    "address" : "whois.net.ua",
+    "availableText" : "No entries found"
+  } ]
+}, {
+  "tld" : "ubs",
+  "servers" : [ {
+    "address" : "whois.nic.ubs",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ug",
+  "servers" : [ {
+    "address" : "whois.co.ug",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "uk",
+  "servers" : [ {
+    "address" : "whois.nic.uk",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ac.uk",
+  "servers" : [ {
+    "address" : "whois.ja.net",
+    "availableText" : "no such domain"
+  } ]
+}, {
+  "tld" : "co.uk",
+  "servers" : [ {
+    "address" : "whois.nic.uk",
+    "availableText" : "No match"
+  } ]
+}, {
+  "tld" : "gov.uk",
+  "servers" : [ {
+    "address" : "whois.ja.net",
+    "availableText" : "No such domain"
+  } ]
+}, {
+  "tld" : "ltd.uk",
+  "servers" : [ {
+    "address" : "whois.nic.uk",
+    "availableText" : "No match"
+  } ]
+}, {
+  "tld" : "me.uk",
+  "servers" : [ {
+    "address" : "whois.nic.uk",
+    "availableText" : "No match"
+  } ]
+}, {
+  "tld" : "net.uk",
+  "servers" : [ {
+    "address" : "whois.nic.uk",
+    "availableText" : "No match"
+  } ]
+}, {
+  "tld" : "org.uk",
+  "servers" : [ {
+    "address" : "whois.nic.uk",
+    "availableText" : "No match"
+  } ]
+}, {
+  "tld" : "plc.uk",
+  "servers" : [ {
+    "address" : "whois.nic.uk",
+    "availableText" : "No match"
+  } ]
+}, {
+  "tld" : "university",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "uno",
+  "servers" : [ {
+    "address" : "whois.nic.uno",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "uol",
+  "servers" : [ {
+    "address" : "whois.gtlds.nic.br",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "ups",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "us",
+  "servers" : [ {
+    "address" : "whois.nic.us",
+    "availableText" : "not found:"
+  } ]
+}, {
+  "tld" : "uy",
+  "servers" : [ {
+    "address" : "whois.nic.org.uy",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "uz",
+  "servers" : [ {
+    "address" : "whois.cctld.uz",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "vacations",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "vana",
+  "servers" : [ {
+    "address" : "whois.nic.vana",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "vc",
+  "servers" : [ {
+    "address" : "whois.afilias-grs.info",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois2.afilias-grs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ve",
+  "servers" : [ {
+    "address" : "whois.nic.ve",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "co.ve",
+  "servers" : [ {
+    "address" : "whois.nic.ve",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "com.ve",
+  "servers" : [ {
+    "address" : "whois.nic.ve",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "info.ve",
+  "servers" : [ {
+    "address" : "whois.nic.ve",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "net.ve",
+  "servers" : [ {
+    "address" : "whois.nic.ve",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "org.ve",
+  "servers" : [ {
+    "address" : "whois.nic.ve",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "web.ve",
+  "servers" : [ {
+    "address" : "whois.nic.ve",
+    "availableText" : "No match for"
+  } ]
+}, {
+  "tld" : "vegas",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "ventures",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "verisign",
+  "servers" : [ {
+    "address" : "whois.nic.verisign",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "vermögensberater",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "vermögensberatung",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "versicherung",
+  "servers" : [ {
+    "address" : "whois.nic.versicherung",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "vet",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "vg",
+  "servers" : [ {
+    "address" : "ccwhois.ksregistry.net",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.vg",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "viajes",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "video",
+  "servers" : [ {
+    "address" : "whois.rightside.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "vig",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "viking",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "villas",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "vin",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "vip",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "virgin",
+  "servers" : [ {
+    "address" : "whois.nic.virgin",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "vision",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "vista",
+  "servers" : [ {
+    "address" : "whois.nic.vista",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "vistaprint",
+  "servers" : [ {
+    "address" : "whois.nic.vistaprint",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "viva",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "vlaanderen",
+  "servers" : [ {
+    "address" : "whois.nic.vlaanderen",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "vodka",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "volkswagen",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "vote",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "voting",
+  "servers" : [ {
+    "address" : "whois.voting.tld-box.at",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "voto",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "voyage",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found"
+  } ]
+}, {
+  "tld" : "vu",
+  "servers" : [ {
+    "address" : "vunic.vu",
+    "availableText" : "is not valid!"
+  } ]
+}, {
+  "tld" : "wales",
+  "servers" : [ {
+    "address" : "whois.nic.wales",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "walter",
+  "servers" : [ {
+    "address" : "whois.nic.walter",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "wang",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "warman",
+  "servers" : [ {
+    "address" : "whois.nic.warman",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "watch",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "webcam",
+  "servers" : [ {
+    "address" : "whois.nic.webcam",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "weber",
+  "servers" : [ {
+    "address" : "whois.nic.weber",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "website",
+  "servers" : [ {
+    "address" : "whois.nic.website",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "wed",
+  "servers" : [ {
+    "address" : "whois.nic.wed",
+    "availableText" : "Domain Status: No Object Found"
+  } ]
+}, {
+  "tld" : "wedding",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "wf",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.nic.wf",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "whoswho",
+  "servers" : [ {
+    "address" : "whois.nic.whoswho",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "wien",
+  "servers" : [ {
+    "address" : "whois.nic.wien",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "wiki",
+  "servers" : [ {
+    "address" : "whois.nic.wiki",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "win",
+  "servers" : [ {
+    "address" : "whois.nic.win",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "wine",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "wme",
+  "servers" : [ {
+    "address" : "whois.centralnic.com",
+    "availableText" : "not found"
+  }, {
+    "address" : "whois.nic.wme",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "wolterskluwer",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "woodside",
+  "servers" : [ {
+    "address" : "whois.nic.woodside",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "work",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "works",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "world",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "ws",
+  "servers" : [ {
+    "address" : "whois.website.ws",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "wtc",
+  "servers" : [ {
+    "address" : "whois.nic.wtc",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "wtf",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "xerox",
+  "servers" : [ {
+    "address" : "whois.nic.xerox",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "xihuan",
+  "servers" : [ {
+    "address" : "whois.teleinfo.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "xin",
+  "servers" : [ {
+    "address" : "whois.nic.xin",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "xperia",
+  "servers" : [ {
+    "address" : "whois.nic.xperia",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "xxx",
+  "servers" : [ {
+    "address" : "whois.nic.xxx",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "xyz",
+  "servers" : [ {
+    "address" : "whois.nic.xyz",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "yachts",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "yodobashi",
+  "servers" : [ {
+    "address" : "whois.nic.gmo",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "yoga",
+  "servers" : [ {
+    "address" : "whois-dub.mm-registry.com",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "youtube",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "yt",
+  "servers" : [ {
+    "address" : "whois.nic.fr",
+    "availableText" : "no entries found"
+  }, {
+    "address" : "whois.nic.yt",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "yun",
+  "servers" : [ {
+    "address" : "whois.teleinfo.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ac.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "alt.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "edu.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "gov.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "mil.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "net.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "ngo.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "nom.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "school.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "tm.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "web.za",
+  "servers" : [ {
+    "address" : "whois.co.za",
+    "availableText" : "No information available"
+  } ]
+}, {
+  "tld" : "zara",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "zip",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "zm",
+  "servers" : [ {
+    "address" : "whois.nic.zm",
+    "availableText" : "Domain Status: No Object Found"
+  } ]
+}, {
+  "tld" : "zone",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "zuerich",
+  "servers" : [ {
+    "address" : "whois.ksregistry.net",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "бг",
+  "servers" : [ {
+    "address" : "whois.imena.bg",
+    "availableText" : "does not exist in database"
+  } ]
+}, {
+  "tld" : "дети",
+  "servers" : [ {
+    "address" : "whois.nic.xn--d1acj3b",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "ею",
+  "servers" : [ {
+    "address" : "whois.eu",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "ком",
+  "servers" : [ {
+    "address" : "whois.nic.xn--j1aef",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "мкд",
+  "servers" : [ {
+    "address" : "whois.marnet.mk",
+    "availableText" : "% No entries found."
+  } ]
+}, {
+  "tld" : "москва",
+  "servers" : [ {
+    "address" : "whois.nic.xn--80adxhks",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "онлайн",
+  "servers" : [ {
+    "address" : "whois.online.rs.corenic.net",
+    "availableText" : "% no matching objects found"
+  } ]
+}, {
+  "tld" : "орг",
+  "servers" : [ {
+    "address" : "whois.publicinterestregistry.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "рус",
+  "servers" : [ {
+    "address" : "whois.nic.xn--p1acf",
+    "availableText" : "Domain Status: No Object Found"
+  } ]
+}, {
+  "tld" : "рф",
+  "servers" : [ {
+    "address" : "whois.ripn.net",
+    "availableText" : "No entries found"
+  }, {
+    "address" : "whois.tcinet.ru",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "сайт",
+  "servers" : [ {
+    "address" : "whois.online.rs.corenic.net",
+    "availableText" : "no match"
+  }, {
+    "address" : "whois.site.rs.corenic.net",
+    "availableText" : "% no matching objects found"
+  } ]
+}, {
+  "tld" : "укр",
+  "servers" : [ {
+    "address" : "whois.dotukr.com",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "қаз",
+  "servers" : [ {
+    "address" : "whois.nic.kz",
+    "availableText" : "nothing found"
+  } ]
+}, {
+  "tld" : "קום",
+  "servers" : [ {
+    "address" : "whois.nic.xn--9dbq2a",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ابوظبي",
+  "servers" : [ {
+    "address" : "whois.nic.xn--mgbca7dzdo",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "الجزائر",
+  "servers" : [ {
+    "address" : "whois.nic.dz",
+    "availableText" : "NO OBJECT FOUND!"
+  } ]
+}, {
+  "tld" : "السعودية",
+  "servers" : [ {
+    "address" : "whois.nic.net.sa",
+    "availableText" : "No Match"
+  } ]
+}, {
+  "tld" : "العليان",
+  "servers" : [ {
+    "address" : "whois.nic.xn--mgba7c0bbn0a",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "امارات",
+  "servers" : [ {
+    "address" : "whois.aeda.net.ae",
+    "availableText" : "no data found"
+  } ]
+}, {
+  "tld" : "ایران",
+  "servers" : [ {
+    "address" : "whois.nic.ir",
+    "availableText" : "no entries found"
+  } ]
+}, {
+  "tld" : "بيتك",
+  "servers" : [ {
+    "address" : "whois.nic.xn--ngbe9e0a",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "بھارت",
+  "servers" : [ {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "سورية",
+  "servers" : [ {
+    "address" : "whois.tld.sy",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "شبكة",
+  "servers" : [ {
+    "address" : "whois.nic.xn--ngbc5azd",
+    "availableText" : "No Data Found"
+  } ]
+}, {
+  "tld" : "عراق",
+  "servers" : [ {
+    "address" : "whois.cmc.iq",
+    "availableText" : "not registered"
+  } ]
+}, {
+  "tld" : "عمان",
+  "servers" : [ {
+    "address" : "whois.registry.om",
+    "availableText" : "no data found"
+  } ]
+}, {
+  "tld" : "فلسطين",
+  "servers" : [ {
+    "address" : "whois.pnina.ps",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "قطر",
+  "servers" : [ {
+    "address" : "whois.registry.qa",
+    "availableText" : "no data found"
+  } ]
+}, {
+  "tld" : "كوم",
+  "servers" : [ {
+    "address" : "whois.nic.xn--fhbei",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "مصر",
+  "servers" : [ {
+    "address" : "whois.dotmasr.eg",
+    "availableText" : "not registered"
+  } ]
+}, {
+  "tld" : "موقع",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "همراه",
+  "servers" : [ {
+    "address" : "whois.agitsys.net",
+    "availableText" : "No Object Found"
+  } ]
+}, {
+  "tld" : "कॉम",
+  "servers" : [ {
+    "address" : "whois.nic.xn--11b4c3d",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "नेट",
+  "servers" : [ {
+    "address" : "whois.nic.xn--c2br7g",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "भारत",
+  "servers" : [ {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "संगठन",
+  "servers" : [ {
+    "address" : "whois.publicinterestregistry.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "ভারত",
+  "servers" : [ {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ਭਾਰਤ",
+  "servers" : [ {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "ભારત",
+  "servers" : [ {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "இந்தியா",
+  "servers" : [ {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "சிங்கப்பூர்",
+  "servers" : [ {
+    "address" : "whois.sgnic.sg",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "భారత్",
+  "servers" : [ {
+    "address" : "whois.inregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "คอม",
+  "servers" : [ {
+    "address" : "whois.nic.xn--42c2d9a",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "ไทย",
+  "servers" : [ {
+    "address" : "whois.thnic.co.th",
+    "availableText" : "no match for"
+  } ]
+}, {
+  "tld" : "みんな",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "グーグル",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "コム",
+  "servers" : [ {
+    "address" : "whois.nic.xn--tckwe",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "世界",
+  "servers" : [ {
+    "address" : "whois.nic.xn--rhqv96g",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "中信",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "中国",
+  "servers" : [ {
+    "address" : "cwhois.cnnic.cn",
+    "availableText" : "no matching record"
+  } ]
+}, {
+  "tld" : "中國",
+  "servers" : [ {
+    "address" : "cwhois.cnnic.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "中文网",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  }, {
+    "address" : "whois.teleinfo.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "企业",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "佛山",
+  "servers" : [ {
+    "address" : "whois.ngtld.cn",
+    "availableText" : "No match"
+  } ]
+}, {
+  "tld" : "信息",
+  "servers" : [ {
+    "address" : "whois.teleinfo.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "八卦",
+  "servers" : [ {
+    "address" : "whois.nic.xn--45q11c",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "公司",
+  "servers" : [ {
+    "address" : "whois.ngtld.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "公益",
+  "servers" : [ {
+    "address" : "whois.conac.cn",
+    "availableText" : "Not find MatchingRecord"
+  } ]
+}, {
+  "tld" : "商城",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "商店",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "嘉里",
+  "servers" : [ {
+    "address" : "whois.nic.xn--w4rs40l",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "嘉里大酒店",
+  "servers" : [ {
+    "address" : "whois.nic.xn--w4r85el8fhu5dnra",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "在线",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  }, {
+    "address" : "whois.teleinfo.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "大拿",
+  "servers" : [ {
+    "address" : "whois.nic.xn--pssy2u",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "娱乐",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "工行",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "广东",
+  "servers" : [ {
+    "address" : "whois.ngtld.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "微博",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "慈善",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  }, {
+    "address" : "whois.nic.wang",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "我爱你",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "手机",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "NOT FOUND"
+  }, {
+    "address" : "whois.nic.xn--kput3i",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "政务",
+  "servers" : [ {
+    "address" : "whois.conac.cn",
+    "availableText" : "Not find MatchingRecord"
+  } ]
+}, {
+  "tld" : "政府",
+  "servers" : [ {
+    "address" : "whois.nic.xn--mxtq1m",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "新加坡",
+  "servers" : [ {
+    "address" : "whois.sgnic.sg",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "新闻",
+  "servers" : [ {
+    "address" : "whois.nic.xn--efvy88h",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "时尚",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  }, {
+    "address" : "whois.nic.wang",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "机构",
+  "servers" : [ {
+    "address" : "whois.publicinterestregistry.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "淡马锡",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "游戏",
+  "servers" : [ {
+    "address" : "whois.donuts.co",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "澳門",
+  "servers" : [ {
+    "address" : "whois.monic.mo",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "点看",
+  "servers" : [ {
+    "address" : "whois.nic.xn--3pxu8k",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "移动",
+  "servers" : [ {
+    "address" : "whois.afilias.net",
+    "availableText" : "NOT FOUND"
+  } ]
+}, {
+  "tld" : "组织机构",
+  "servers" : [ {
+    "address" : "whois.publicinterestregistry.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "网址",
+  "servers" : [ {
+    "address" : "whois.registry.knet.cn",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "网店",
+  "servers" : [ {
+    "address" : "whois.nic.xn--hxt814e",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "网络",
+  "servers" : [ {
+    "address" : "whois.ngtld.cn",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "诺基亚",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "谷歌",
+  "servers" : [ {
+    "address" : "domain-registry-whois.l.google.com",
+    "availableText" : "Domain not found."
+  } ]
+}, {
+  "tld" : "集团",
+  "servers" : [ {
+    "address" : "whois.gtld.knet.cn",
+    "availableText" : "object does not exist"
+  } ]
+}, {
+  "tld" : "電訊盈科",
+  "servers" : [ {
+    "address" : "whois.afilias-srs.net",
+    "availableText" : "not found"
+  } ]
+}, {
+  "tld" : "飞利浦",
+  "servers" : [ {
+    "address" : "whois.nic.xn--kcrx77d1x4a",
+    "availableText" : "available"
+  } ]
+}, {
+  "tld" : "香格里拉",
+  "servers" : [ {
+    "address" : "whois.nic.xn--5su34j936bgsg",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "香港",
+  "servers" : [ {
+    "address" : "whois.hkirc.hk",
+    "availableText" : "The domain has not been registered"
+  } ]
+}, {
+  "tld" : "닷넷",
+  "servers" : [ {
+    "address" : "whois.nic.xn--t60b56a",
+    "availableText" : "no match"
+  } ]
+}, {
+  "tld" : "닷컴",
+  "servers" : [ {
+    "address" : "whois.nic.xn--mk1bu44c",
+    "availableText" : "no match"
+  } ]
+} ]

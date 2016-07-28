@@ -1,4 +1,4 @@
-package ca.danielstout.pippolearn;
+package ca.danielstout.shortdomains;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

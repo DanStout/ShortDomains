@@ -1,4 +1,4 @@
-package ca.danielstout.pippolearn.user;
+package ca.danielstout.shortdomains.user;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;

@@ -1,4 +1,4 @@
-package ca.danielstout.pippolearn.person;
+package ca.danielstout.shortdomains.person;
 
 import java.util.List;
 

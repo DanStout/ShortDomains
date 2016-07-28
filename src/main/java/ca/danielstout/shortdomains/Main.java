@@ -1,8 +1,9 @@
-package ca.danielstout.pippolearn;
+package ca.danielstout.shortdomains;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import ca.danielstout.shortdomains.tld.WhoisListConverter;
 import ro.pippo.core.Application;
 import ro.pippo.core.Pippo;
 import ro.pippo.core.RuntimeMode;
@@ -14,6 +15,8 @@ public class Main
 
 	public static void main(String[] args)
 	{
+		(new WhoisListConverter()).convert();
+
 		Application app = new App();
 
 		RuntimeMode mode = RuntimeMode.getCurrent();

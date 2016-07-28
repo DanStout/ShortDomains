@@ -1,4 +1,4 @@
-package ca.danielstout.pippolearn;
+package ca.danielstout.shortdomains;
 
 import javax.sql.DataSource;
 
@@ -13,8 +13,8 @@ import com.google.inject.Injector;
 import com.google.inject.Module;
 import com.zaxxer.hikari.HikariDataSource;
 
-import ca.danielstout.pippolearn.person.PersonController;
-import ca.danielstout.pippolearn.user.UserRoutes;
+import ca.danielstout.shortdomains.person.PersonController;
+import ca.danielstout.shortdomains.user.UserRoutes;
 import ro.pippo.controller.ControllerApplication;
 import ro.pippo.controller.ControllerFactory;
 import ro.pippo.core.PippoSettings;

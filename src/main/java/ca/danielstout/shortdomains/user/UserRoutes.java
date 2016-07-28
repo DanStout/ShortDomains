@@ -1,4 +1,4 @@
-package ca.danielstout.pippolearn.user;
+package ca.danielstout.shortdomains.user;
 
 import java.util.Optional;
 import java.util.Set;
@@ -10,7 +10,7 @@ import javax.validation.Validator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ca.danielstout.pippolearn.FormManager;
+import ca.danielstout.shortdomains.FormManager;
 import ro.pippo.core.route.RouteGroup;
 
 public class UserRoutes extends RouteGroup

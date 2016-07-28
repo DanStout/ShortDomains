@@ -1,4 +1,4 @@
-package ca.danielstout.pippolearn;
+package ca.danielstout.shortdomains;
 
 import javax.validation.Validation;
 import javax.validation.Validator;
@@ -10,8 +10,8 @@ import com.google.inject.AbstractModule;
 import com.google.inject.Module;
 import com.google.inject.Singleton;
 
-import ca.danielstout.pippolearn.person.PersonService;
-import ca.danielstout.pippolearn.user.UserService;
+import ca.danielstout.shortdomains.person.PersonService;
+import ca.danielstout.shortdomains.user.UserService;
 
 public class GuiceModule extends AbstractModule implements Module
 {

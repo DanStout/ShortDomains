@@ -10,7 +10,9 @@ Todo:
      * Throttle logins/signups based on IP
      * Use Mailgun to send emails (confirmation, password reset)
      * Add form validation
-
+ * Store the TldServerMapping in the DB
+     * LastQueryTime column to avoid exceeding limits
+ * Store results for domains in DB
  Done:
  * Setup DB:
     * H2 for DB
