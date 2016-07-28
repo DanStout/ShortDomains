@@ -1,4 +1,4 @@
-package ca.danielstout.shortdomains.user;
+package ca.danielstout.shortdomains.admin;
 
 import java.util.Optional;
 import java.util.Set;
@@ -80,7 +80,7 @@ public class UserRoutes extends RouteGroup
 
 			FormManager mgr = new FormManager(ctx);
 			user.setPassword("");
-			mgr.flashObject(user);
+			mgr.flashObjectFields(user);
 
 			for (ConstraintViolation<User> viol : violations)
 			{

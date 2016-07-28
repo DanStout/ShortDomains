@@ -1,0 +1,22 @@
+{% extends "base" %}
+
+{% set title="Domain Checker" %}
+{% set description = "Check Domain Availability" %}
+
+{% block content %}
+
+<h1>Domain Availability</h1>
+<form action="/domain/check" method="post">
+	{{ csrf() }}
+	<div class="form-group{% if domain != null %}{% if available %} has-success{% else %} has-error{%endif %}{% endif %}">
+		<label for="domain">Domain</label>
+		<input type="text" class="form-control" id="domain" name="domain" placeholder="example.com" value="{{domain}}">
+	</div>
+	<button type="submit" class="btn btn-primary">Check</button>
+</form>
+
+{% if domain != null %}
+	<p>{{ domain }} is {% if not available %}not{% endif %} available.</p>
+{% endif %}
+
+{% endblock %}

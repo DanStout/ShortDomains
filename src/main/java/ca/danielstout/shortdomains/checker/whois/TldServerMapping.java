@@ -1,4 +1,4 @@
-package ca.danielstout.shortdomains.tld;
+package ca.danielstout.shortdomains.checker.whois;
 
 import java.util.List;
 

@@ -72,5 +72,4 @@ public class DnsDomainChecker implements DomainCheckStrategy
 
 		return DomainCheckResult.TAKEN;
 	}
-
 }

@@ -15,8 +15,10 @@ import ro.pippo.core.route.RouteContext;
 
 public class FormManager
 {
-	private static final String KEY = "form_errors";
-	private static final String OBJS = "ses_objs";
+	private static final String KEY_FORM_ERRORS = "form_errors";
+	// TODO: Better value
+	private static final String KEY_FLASHED_OBJS_BY_FIELD = "ses_objs";
+	private static final String KEY_FLASHED_OBJS = "objs";
 
 	private static final Logger log = LoggerFactory.getLogger(FormManager.class);
 	private RouteContext ctx;
@@ -28,25 +30,52 @@ public class FormManager
 
 	public void moveFlashToLocal()
 	{
-		Map<String, List<String>> stored = ctx.removeSession(KEY);
+		Map<String, List<String>> stored = ctx.removeSession(KEY_FORM_ERRORS);
 		if (stored == null) stored = new HashMap<>();
-		ctx.setLocal(KEY, stored);
+		ctx.setLocal(KEY_FORM_ERRORS, stored);
 
-		Set<Object> objs = ctx.removeSession(OBJS);
-		if (objs == null) objs = new HashSet<>();
-		for (Object obj : objs)
+		Set<Object> objs = ctx.removeSession(KEY_FLASHED_OBJS_BY_FIELD);
+		if (objs != null)
 		{
-			setFieldsToLocals(ctx, obj);
+			for (Object obj : objs)
+			{
+				setFieldsToLocals(ctx, obj);
+			}
 		}
+
+		Map<String, Object> storedObjs = ctx.removeSession(KEY_FLASHED_OBJS);
+		if (storedObjs != null)
+		{
+			for (Map.Entry<String, Object> entry : storedObjs.entrySet())
+			{
+				ctx.setLocal(entry.getKey(), entry.getValue());
+			}
+		}
+
 	}
 
-	public <T> void flashObject(T obj)
+	public void flashObject(String name, Object obj)
 	{
-		Set<Object> objs = ctx.getSession(OBJS);
+		Map<String, Object> stored = ctx.getSession(KEY_FLASHED_OBJS);
+		if (stored == null)
+		{
+			stored = new HashMap<>();
+			ctx.setSession(KEY_FLASHED_OBJS, stored);
+		}
+		stored.put(name, obj);
+	}
+
+	/**
+	 * Flashes the fields of an object
+	 * @param obj
+	 */
+	public <T> void flashObjectFields(T obj)
+	{
+		Set<Object> objs = ctx.getSession(KEY_FLASHED_OBJS_BY_FIELD);
 		if (objs == null)
 		{
 			objs = new HashSet<>();
-			ctx.setSession(OBJS, objs);
+			ctx.setSession(KEY_FLASHED_OBJS_BY_FIELD, objs);
 		}
 
 		objs.add(obj);
@@ -77,11 +106,11 @@ public class FormManager
 
 	public void addError(String field, String error)
 	{
-		Map<String, List<String>> errs = ctx.getSession(KEY);
+		Map<String, List<String>> errs = ctx.getSession(KEY_FORM_ERRORS);
 		if (errs == null)
 		{
 			errs = new HashMap<>();
-			ctx.setSession(KEY, errs);
+			ctx.setSession(KEY_FORM_ERRORS, errs);
 		}
 
 		List<String> storedErrs = errs.get(field);

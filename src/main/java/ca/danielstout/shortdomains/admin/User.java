@@ -1,4 +1,4 @@
-package ca.danielstout.shortdomains.user;
+package ca.danielstout.shortdomains.admin;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;

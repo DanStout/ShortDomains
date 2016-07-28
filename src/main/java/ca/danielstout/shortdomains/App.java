@@ -1,5 +1,10 @@
 package ca.danielstout.shortdomains;
 
+import java.sql.Timestamp;
+import java.time.LocalDateTime;
+import java.util.HashMap;
+import java.util.Map;
+
 import javax.sql.DataSource;
 
 import org.flywaydb.core.Flyway;
@@ -7,14 +12,20 @@ import org.h2.jdbcx.JdbcDataSource;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.sql2o.Sql2o;
+import org.sql2o.converters.Converter;
+import org.sql2o.converters.ConverterException;
+import org.sql2o.quirks.NoQuirks;
+import org.sql2o.quirks.Quirks;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import com.google.inject.Module;
 import com.zaxxer.hikari.HikariDataSource;
 
+import ca.danielstout.shortdomains.admin.UserRoutes;
+import ca.danielstout.shortdomains.checker.DomainChecker;
+import ca.danielstout.shortdomains.domainavail.DomainAvailRoutes;
 import ca.danielstout.shortdomains.person.PersonController;
-import ca.danielstout.shortdomains.user.UserRoutes;
 import ro.pippo.controller.ControllerApplication;
 import ro.pippo.controller.ControllerFactory;
 import ro.pippo.core.PippoSettings;
@@ -30,9 +41,21 @@ public class App extends ControllerApplication
 	{
 		DataSource src = setupDb();
 		migrate(src);
-		Sql2o s = new Sql2o(src);
+		Sql2o s = getSql2o(src);
+
 		injector = setupDependencyInjection(s);
 		registerTemplateEngine(CustomPebbleTemplateEngine.class);
+
+		DomainChecker checker = injector.getInstance(DomainChecker.class);
+		boolean a1 = checker.isDomainAvailable("www.dkjgjh.ca");
+		boolean a2 = checker.isDomainAvailable("danielstout.ca");
+		log.debug("{}, {}", a1, a2);
+
+		// WhoisListConverter conv = new WhoisListConverter();
+		// WhoisService serv = new WhoisService(s);
+		// Optional<TldServerMapping> map = serv.getMappingForDomain("danielstout.ca");
+		// log.debug("{}", map);
+		// serv.storeMappings(conv.getServers(false));
 	}
 
 	@Override
@@ -43,7 +66,6 @@ public class App extends ControllerApplication
 		{
 			FormManager mgr = new FormManager(ctx);
 			mgr.moveFlashToLocal();
-
 			ctx.next();
 		});
 
@@ -53,8 +75,8 @@ public class App extends ControllerApplication
 		DELETE("/person/{id: [0-9]+}", PersonController.class, "deletePerson")
 			.named("person_delete");
 
-		UserRoutes routes = injector.getInstance(UserRoutes.class);
-		addRouteGroup(routes);
+		addRouteGroup(injector.getInstance(UserRoutes.class));
+		addRouteGroup(injector.getInstance(DomainAvailRoutes.class));
 	}
 
 	private Injector setupDependencyInjection(Sql2o sql2o)
@@ -89,5 +111,31 @@ public class App extends ControllerApplication
 		fly.setDataSource(src);
 		int applied = fly.migrate();
 		log.debug("Applied {} migrations", applied);
+	}
+
+	private Sql2o getSql2o(DataSource src)
+	{
+		@SuppressWarnings("rawtypes")
+		Map<Class, Converter> converters = new HashMap<>();
+
+		Converter<LocalDateTime> c = new Converter<LocalDateTime>()
+		{
+			@Override
+			public LocalDateTime convert(Object val) throws ConverterException
+			{
+				if (val == null) return null;
+				return Timestamp.valueOf(val.toString()).toLocalDateTime();
+			}
+
+			@Override
+			public Object toDatabaseParam(LocalDateTime val)
+			{
+				return val.toString();
+			}
+		};
+		converters.put(LocalDateTime.class, c);
+
+		Quirks q = new NoQuirks(converters);
+		return new Sql2o(src, q);
 	}
 }

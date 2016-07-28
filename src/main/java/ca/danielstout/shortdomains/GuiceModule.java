@@ -10,8 +10,10 @@ import com.google.inject.AbstractModule;
 import com.google.inject.Module;
 import com.google.inject.Singleton;
 
+import ca.danielstout.shortdomains.admin.UserService;
 import ca.danielstout.shortdomains.person.PersonService;
-import ca.danielstout.shortdomains.user.UserService;
+import de.malkusch.whoisServerList.publicSuffixList.PublicSuffixList;
+import de.malkusch.whoisServerList.publicSuffixList.PublicSuffixListFactory;
 
 public class GuiceModule extends AbstractModule implements Module
 {
@@ -28,6 +30,7 @@ public class GuiceModule extends AbstractModule implements Module
 		bind(PersonService.class).in(Singleton.class);
 		bind(UserService.class).in(Singleton.class);
 		bind(Sql2o.class).toInstance(this.sql2o);
+		bind(PublicSuffixList.class).toInstance((new PublicSuffixListFactory()).build());
 
 		ValidatorFactory validFact = Validation.buildDefaultValidatorFactory();
 		Validator validator = validFact.getValidator();

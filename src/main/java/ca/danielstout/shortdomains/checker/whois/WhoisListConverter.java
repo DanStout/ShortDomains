@@ -1,9 +1,14 @@
-package ca.danielstout.shortdomains.tld;
+package ca.danielstout.shortdomains.checker.whois;
 
 import java.io.BufferedInputStream;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -32,19 +37,39 @@ public class WhoisListConverter
 
 	private static final String whoisListUrl = "http://whois-server-list.github.io/whois-server-list/2.2/whois-server-list.xml";
 	private static final String jsonOutput = "data/servers.json";
+	private static final String xmlStored = "data/whois-server-list.xml";
 
-	public void convert()
+	public List<TldServerMapping> getServers(boolean fetchFresh)
 	{
-		InputStream stream = new BufferedInputStream(getUpdatedXml());
-		List<TldServerMapping> servs = getServersFromXml(stream);
+
+		InputStream stream = null;
+		try
+		{
+			stream = fetchFresh ? getUpdatedXml() : new FileInputStream(xmlStored);
+		}
+		catch (FileNotFoundException e)
+		{
+			throw new RuntimeException(e);
+		}
+		stream = new BufferedInputStream(stream);
+		return getServersFromXml(stream);
+	}
+
+	public void updateServerJson()
+	{
+		List<TldServerMapping> servs = getServers(true);
 		writeServersToJson(servs, jsonOutput);
 	}
 
-	public InputStream getUpdatedXml()
+	private InputStream getUpdatedXml()
 	{
 		try
 		{
-			return Request.Get(whoisListUrl).execute().returnContent().asStream();
+			InputStream remote = Request.Get(whoisListUrl).execute().returnContent().asStream();
+			remote.mark(0);
+			Files.copy(remote, Paths.get(xmlStored), StandardCopyOption.REPLACE_EXISTING);
+			remote.reset();
+			return remote;
 		}
 		catch (IOException e)
 		{
@@ -102,7 +127,7 @@ public class WhoisListConverter
 			for (Node serverNode : servers)
 			{
 				Element serverElem = (Element) serverNode;
-				String server = serverElem.getAttribute("host");
+				String address = serverElem.getAttribute("host");
 
 				WhoisServer ser = new WhoisServer();
 				List<Node> patterns = XmlUtils.getChildNodesWithTag(serverElem, "availablePattern");
@@ -113,7 +138,7 @@ public class WhoisListConverter
 				pattern = pattern.substring(2, pattern.length() - 2); // remove \Q and \E
 				ser.setAvailableText(pattern);
 
-				ser.setServer(server);
+				ser.setAddress(address);
 				serv.getServers().add(ser);
 			}
 

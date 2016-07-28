@@ -13,6 +13,10 @@ Todo:
  * Store the TldServerMapping in the DB
      * LastQueryTime column to avoid exceeding limits
  * Store results for domains in DB
+ * Admin interface for manually updating whois servers
+ 
+ 
+ 
  Done:
  * Setup DB:
     * H2 for DB

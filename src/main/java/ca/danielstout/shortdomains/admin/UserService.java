@@ -1,4 +1,4 @@
-package ca.danielstout.shortdomains.user;
+package ca.danielstout.shortdomains.admin;
 
 import java.util.Optional;
 
