@@ -14,7 +14,7 @@ Todo:
      * LastQueryTime column to avoid exceeding limits
  * Store results for domains in DB
  * Admin interface for manually updating whois servers
- 
+ * Store expiry date when available in whois
  
  
  Done:

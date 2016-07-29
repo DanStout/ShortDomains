@@ -54,7 +54,7 @@ public class FormManager
 
 	}
 
-	public void flashObject(String name, Object obj)
+	public FormManager flashObject(String name, Object obj)
 	{
 		Map<String, Object> stored = ctx.getSession(KEY_FLASHED_OBJS);
 		if (stored == null)
@@ -63,6 +63,7 @@ public class FormManager
 			ctx.setSession(KEY_FLASHED_OBJS, stored);
 		}
 		stored.put(name, obj);
+		return this;
 	}
 
 	/**

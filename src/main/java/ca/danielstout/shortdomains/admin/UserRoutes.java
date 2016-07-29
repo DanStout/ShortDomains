@@ -30,7 +30,7 @@ public class UserRoutes extends RouteGroup
 			String email = ctx.getParameter("email").toString().trim();
 			String password = ctx.getParameter("password").toString().trim();
 			Optional<User> user = serv.getUser(email, password);
-			log.debug("User for email {}: {}", email, user);
+			log.debug("User for email '{}': {}", email, user);
 			if (user.isPresent())
 			{
 				ctx.setSession(SES_USER, user.get());
@@ -39,6 +39,8 @@ public class UserRoutes extends RouteGroup
 			else
 			{
 				ctx.flashError("Invalid email or password");
+				FormManager mgr = new FormManager(ctx);
+				mgr.flashObject("email", email);
 				ctx.redirect(ctx.getRequestUri());
 			}
 

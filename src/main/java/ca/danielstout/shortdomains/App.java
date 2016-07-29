@@ -23,7 +23,6 @@ import com.google.inject.Module;
 import com.zaxxer.hikari.HikariDataSource;
 
 import ca.danielstout.shortdomains.admin.UserRoutes;
-import ca.danielstout.shortdomains.checker.DomainChecker;
 import ca.danielstout.shortdomains.domainavail.DomainAvailRoutes;
 import ca.danielstout.shortdomains.person.PersonController;
 import ro.pippo.controller.ControllerApplication;
@@ -40,16 +39,17 @@ public class App extends ControllerApplication
 	public App()
 	{
 		DataSource src = setupDb();
-		migrate(src);
 		Sql2o s = getSql2o(src);
 
 		injector = setupDependencyInjection(s);
+		migrate(src);
+
 		registerTemplateEngine(CustomPebbleTemplateEngine.class);
 
-		DomainChecker checker = injector.getInstance(DomainChecker.class);
-		boolean a1 = checker.isDomainAvailable("www.dkjgjh.ca");
-		boolean a2 = checker.isDomainAvailable("danielstout.ca");
-		log.debug("{}, {}", a1, a2);
+		// DomainChecker checker = injector.getInstance(DomainChecker.class);
+		// boolean a1 = checker.isDomainAvailable("www.dkjgjh.ca");
+		// boolean a2 = checker.isDomainAvailable("danielstout.ca");
+		// log.debug("{}, {}", a1, a2);
 
 		// WhoisListConverter conv = new WhoisListConverter();
 		// WhoisService serv = new WhoisService(s);
@@ -108,6 +108,8 @@ public class App extends ControllerApplication
 	private void migrate(DataSource src)
 	{
 		Flyway fly = new Flyway();
+		MigrationCallbacks call = injector.getInstance(MigrationCallbacks.class);
+		fly.setCallbacks(call);
 		fly.setDataSource(src);
 		int applied = fly.migrate();
 		log.debug("Applied {} migrations", applied);

@@ -5,6 +5,7 @@ import java.util.Optional;
 
 import javax.inject.Inject;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.net.whois.WhoisClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -27,7 +28,6 @@ public class WhoisDomainChecker implements DomainCheckStrategy
 	@Override
 	public DomainCheckResult checkDomain(String domain)
 	{
-
 		Optional<TldServerMapping> optMap = whoisServ.getMappingForDomain(domain);
 		if (!optMap.isPresent()) return DomainCheckResult.CANNOT_CONTINUE;
 		TldServerMapping map = optMap.get();
@@ -38,8 +38,9 @@ public class WhoisDomainChecker implements DomainCheckStrategy
 		if (!optRes.isPresent()) return DomainCheckResult.CANNOT_CONTINUE;
 		String result = optRes.get();
 
-		boolean available = result.contains(server.getAvailableText());
-		log.debug("Available: {}", available);
+		boolean available = StringUtils.containsIgnoreCase(result, server.getAvailableText());
+		log.debug("Response from {} contains '{}': {}", server.getAddress(),
+			server.getAvailableText(), available);
 
 		return available ? DomainCheckResult.AVAILABLE : DomainCheckResult.TAKEN;
 
@@ -68,6 +69,5 @@ public class WhoisDomainChecker implements DomainCheckStrategy
 		{
 			return Optional.empty();
 		}
-
 	}
 }

@@ -30,18 +30,19 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 import ca.danielstout.shortdomains.utils.XmlUtils;
 
-public class WhoisListConverter
+public class WhoisListGetter
 {
 
-	private static final Logger log = LoggerFactory.getLogger(WhoisListConverter.class);
+	private static final Logger log = LoggerFactory.getLogger(WhoisListGetter.class);
 
 	private static final String whoisListUrl = "http://whois-server-list.github.io/whois-server-list/2.2/whois-server-list.xml";
 	private static final String jsonOutput = "data/servers.json";
+
+	// TODO: Use stored file if request to url fails
 	private static final String xmlStored = "data/whois-server-list.xml";
 
 	public List<TldServerMapping> getServers(boolean fetchFresh)
 	{
-
 		InputStream stream = null;
 		try
 		{

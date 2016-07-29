@@ -18,11 +18,13 @@ public class WhoisService
 	private final PublicSuffixList suffixList;
 	private static final Logger log = LoggerFactory.getLogger(WhoisService.class);
 	private final Sql2o db;
+	private final WhoisListGetter getter;
 
 	@Inject
-	public WhoisService(Sql2o sql2o, PublicSuffixList publicSuffixList)
+	public WhoisService(Sql2o sql2o, PublicSuffixList publicSuffixList, WhoisListGetter whoisGetter)
 	{
 		suffixList = publicSuffixList;
+		getter = whoisGetter;
 		db = sql2o;
 	}
 
@@ -54,7 +56,13 @@ public class WhoisService
 		}
 	}
 
-	public void storeMappings(List<TldServerMapping> mappings)
+	public void updateServers()
+	{
+		List<TldServerMapping> mappings = getter.getServers(true);
+		storeMappings(mappings);
+	}
+
+	private void storeMappings(List<TldServerMapping> mappings)
 	{
 		String sql = ""
 			+ "merge into whois_server(address, available_text, tld_id) "
