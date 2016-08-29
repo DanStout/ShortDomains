@@ -13,6 +13,9 @@ import org.sql2o.Sql2o;
 
 import de.malkusch.whoisServerList.publicSuffixList.PublicSuffixList;
 
+/**
+ * Manages the tld, whois_server, and checked_domain tables.
+ */
 public class WhoisService
 {
 	private final PublicSuffixList suffixList;
@@ -53,6 +56,24 @@ public class WhoisService
 			mapping.setTld(tld);
 			mapping.setServers(servers);
 			return Optional.of(mapping);
+		}
+	}
+
+	public void updateWhoisServer(WhoisServer server)
+	{
+		String sql = ""
+			+ "update whois_server set "
+			+ "address = :address, "
+			+ "available_text = :availableText, "
+			+ "expiry_regex = :expiryRegex, "
+			+ "last_queried = :lastQueried "
+			+ "where id = :id";
+
+		try (Connection con = db.open())
+		{
+			con.createQuery(sql)
+				.bind(server)
+				.executeUpdate();
 		}
 	}
 

@@ -25,6 +25,7 @@ public class DomainChecker
 	{
 		// Ensure we check DNS before WHOIS
 		strategies.add(dnsChecker);
+		// TODO: Attempt to check cached whois first
 		strategies.add(whoisChecker);
 
 		suffixes = suffixList;

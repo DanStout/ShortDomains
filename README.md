@@ -14,8 +14,12 @@ Todo:
      * LastQueryTime column to avoid exceeding limits
  * Store results for domains in DB
  * Admin interface for manually updating whois servers
+ 	* protected by auth filter (check session) 
  * Store expiry date when available in whois
- 
+ * Cache whois results
+ * Disable registration
+ * Disable displayed errors in production
+ * Investigate /domain vs /domain/ url issue 
  
  Done:
  * Setup DB:
@@ -29,7 +33,6 @@ Todo:
  * Setup Guice for DI
  
  Possible Pippo Contributions:
- * Bugfix with updated Pebble template dev mode cache
  * Add JavaDoc (such as to RouteContext)
 
 Properties available in template:

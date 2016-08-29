@@ -2,13 +2,37 @@ package ca.danielstout.shortdomains.checker.whois;
 
 import java.time.LocalDateTime;
 
+import ca.danielstout.shortdomains.utils.StringUtils;
+
 public class WhoisServer
 {
 	private long id;
 	private String address;
 	private String availableText;
 	private LocalDateTime lastQueried;
+	private String expiryRegex;
+	private String expiryFormat;
 	private long tldId;
+
+	public String getExpiryFormat()
+	{
+		return expiryFormat;
+	}
+
+	public void setExpiryFormat(String expiryFormat)
+	{
+		this.expiryFormat = expiryFormat;
+	}
+
+	public String getExpiryRegex()
+	{
+		return expiryRegex;
+	}
+
+	public void setExpiryRegex(String expiryRegex)
+	{
+		this.expiryRegex = expiryRegex;
+	}
 
 	public long getId()
 	{
@@ -63,7 +87,6 @@ public class WhoisServer
 	@Override
 	public String toString()
 	{
-		return "WhoisServer [id=" + id + ", address=" + address + ", availableText=" + availableText
-			+ ", lastQueried=" + lastQueried + ", tldId=" + tldId + "]";
+		return StringUtils.makeToString(this);
 	}
 }

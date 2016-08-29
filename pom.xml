@@ -56,7 +56,6 @@
 			<groupId>ro.pippo</groupId>
 			<artifactId>pippo-core</artifactId>
 			<version>${pippo.version}</version>
-			<type>pom</type>
 		</dependency>
 		<dependency>
 			<groupId>ro.pippo</groupId>
@@ -72,7 +71,6 @@
 			<groupId>ro.pippo</groupId>
 			<artifactId>pippo-controller</artifactId>
 			<version>${pippo.version}</version>
-			<type>pom</type>
 		</dependency>
 		<dependency>
 			<groupId>ro.pippo</groupId>
@@ -219,6 +217,8 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
+							<!-- Workaround for Maven bug #MJAR-156 (https://jira.codehaus.org/browse/MJAR-156) -->
+							<useUniqueVersions>false</useUniqueVersions>
 							<mainClass>${main.class}</mainClass>
 						</manifest>
 					</archive>

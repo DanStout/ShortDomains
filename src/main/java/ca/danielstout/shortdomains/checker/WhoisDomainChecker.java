@@ -1,7 +1,10 @@
 package ca.danielstout.shortdomains.checker;
 
 import java.io.IOException;
+import java.time.LocalDateTime;
 import java.util.Optional;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import javax.inject.Inject;
 
@@ -32,29 +35,41 @@ public class WhoisDomainChecker implements DomainCheckStrategy
 		if (!optMap.isPresent()) return DomainCheckResult.CANNOT_CONTINUE;
 		TldServerMapping map = optMap.get();
 
-		// TODO: loop over all servers
-		WhoisServer server = map.getServers().get(0);
-		Optional<String> optRes = getWhoisResultForDomain(server.getAddress(), domain);
-		if (!optRes.isPresent()) return DomainCheckResult.CANNOT_CONTINUE;
-		String result = optRes.get();
+		for (WhoisServer server : map.getServers())
+		{
+			Optional<String> optRes = getWhoisResultForDomain(server.getAddress(), domain);
+			if (!optRes.isPresent()) continue;
+			String result = optRes.get();
 
-		boolean available = StringUtils.containsIgnoreCase(result, server.getAvailableText());
-		log.debug("Response from {} contains '{}': {}", server.getAddress(),
-			server.getAvailableText(), available);
+			boolean available = StringUtils.containsIgnoreCase(result, server.getAvailableText());
+			log.debug("Response from {} contains '{}': {}", server.getAddress(),
+				server.getAvailableText(), available);
 
-		return available ? DomainCheckResult.AVAILABLE : DomainCheckResult.TAKEN;
+			String regex = server.getExpiryRegex();
+			if (!available && regex != null)
+			{
+				Pattern pat = Pattern.compile(regex);
+				Matcher mat = pat.matcher(result);
+				if (mat.matches() && mat.groupCount() > 0)
+				{
+					String expiry = mat.group(1); // Group 0 is entire string
+					log.debug("Found expiry: {}", expiry);
+				}
+			}
 
-		// TODO: Store expiry date
-		// String regexExpiry = "(?s).*Expiry date:\\s*([0-9]{4}/[0-9]{2}/[0-9]{2}).*";
-		// Pattern p = Pattern.compile(regexExpiry);
-		// Matcher mat = p.matcher(result);
-		// if (mat.matches())
-		// {
-		// String expiry = mat.group(1);
-		// log.debug("Expires: {}", expiry);
-		// }
+			server.setLastQueried(LocalDateTime.now());
+			whoisServ.updateWhoisServer(server);
+			// TODO: Add/update the checked_domain for this domain in the DB (including expiry)
+			return available ? DomainCheckResult.AVAILABLE : DomainCheckResult.TAKEN;
+		}
+
+		return DomainCheckResult.CANNOT_CONTINUE; // None of the servers returned a result
 	}
 
+	/**
+	 * Attempt to get the WHOIS text for a domain from a specific server, returning an empty
+	 * optional if the request fails.
+	 */
 	private Optional<String> getWhoisResultForDomain(String server, String domain)
 	{
 		WhoisClient whois = new WhoisClient();
